@@ -25,8 +25,10 @@ if (isTRUE(build_data)) {
   #Delete current clean data to resolve st_write append issue
   unlink(here("clean_data", "*"), recursive = T, force = T)
   
-  write_csv(df_pilsen_analysis, here("clean_data", 'pilsen_analysis.csv'))
-  write_csv(df_sos_analysis, here("clean_data", 'sos_analysis.csv'))
+  write_csv(df_pilsen_decon_demo, here("clean_data", 'pilsen_decon_demo.csv'))
+  write_csv(df_sos_decon_demo, here("clean_data", 'sos_decon_demo.csv'))
+  write_csv(df_pilsen_construction, here("clean_data", 'pilsen_construction.csv'))
+  write_csv(df_sos_construction, here("clean_data", 'sos_construction.csv'))
   st_write(df_pilsen_map, here("clean_data", 'pilsen_map.geojson'))
   st_write(df_sos_map, here("clean_data", 'sos_map.geojson'))
   
