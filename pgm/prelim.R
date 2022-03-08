@@ -47,3 +47,29 @@ plot_theme <- function() {
     # Plot margins
     theme(plot.margin = unit(c(0.35, 0.2, 0.3, 0.35), "cm"))
 }
+
+build_analysis_nhoods <- function(df_zoning, df_boundaries, df_nhoods, zoning_codes, nhood_name) {
+  
+  df_zoning_filtered <- df_zoning %>%
+    filter(ZONE_CLASS %in% zoning_codes) %>%
+    st_make_valid()
+    
+  df_treatment <- df_zoning_filtered %>%
+    st_intersection(df_boundaries) %>%
+    transmute(neighborhood = nhood_name)
+  
+  df_control <- df_zoning_filtered %>%
+    st_difference(df_boundaries) %>%
+    st_intersection(df_nhoods %>% st_make_valid()) %>%
+    transmute(neighborhood = name)
+
+  df_map <- df_nhoods %>%
+    transmute(neighborhood = name,
+              geometry) %>%
+    st_make_valid() %>%
+    st_difference(df_boundaries %>% select(geometry))  %>%
+    bind_rows(df_boundaries %>% transmute(neighborhood = nhood_name, geometry))
+  
+  return(list('df_analysis_nhoods' = bind_rows(df_treatment, df_control), 'df_map' = df_map))
+  
+}

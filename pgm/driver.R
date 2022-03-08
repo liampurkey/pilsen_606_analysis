@@ -1,4 +1,5 @@
 #This script runs the analysis
+library(here)
 build_data <- TRUE
 
 source(here("pgm", "prelim.R"))
