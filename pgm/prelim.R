@@ -5,7 +5,6 @@ library(sf)
 library(spData)
 library(tmap)
 library(here)
-library(testthat)
 
 #Functions for project
 plot_theme <- function() {
