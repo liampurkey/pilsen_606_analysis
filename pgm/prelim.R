@@ -47,7 +47,13 @@ plot_theme <- function() {
     theme(plot.margin = unit(c(0.35, 0.2, 0.3, 0.35), "cm"))
 }
 
-build_analysis_nhoods <- function(df_zoning, df_boundaries, df_nhoods, zoning_codes, nhood_name) {
+drop_units <- function(x) {
+  class(x) <- setdiff(class(x), "units")
+  attr(x, "units") <- NULL
+  return(x)
+}
+
+build_analysis_nhoods <- function(df_zoning, df_boundaries, df_control_nhoods, zoning_codes, nhood_name) {
   
   df_zoning_filtered <- df_zoning %>%
     filter(ZONE_CLASS %in% zoning_codes) %>%
@@ -58,17 +64,22 @@ build_analysis_nhoods <- function(df_zoning, df_boundaries, df_nhoods, zoning_co
     transmute(neighborhood = nhood_name)
   
   df_control <- df_zoning_filtered %>%
-    st_difference(df_boundaries) %>%
-    st_intersection(df_nhoods %>% st_make_valid()) %>%
+    st_intersection(df_control_nhoods %>% st_make_valid()) %>%
     transmute(neighborhood = name)
-
-  df_map <- df_nhoods %>%
+  
+  df_analysis_nhoods = bind_rows(df_treatment, df_control) 
+    
+  df_nhood_areas = df_analysis_nhoods %>%
+    mutate(area = drop_units(st_area(.)) / 27878400) %>%
+    st_drop_geometry() %>%
+    group_by(neighborhood) %>%
+    summarize(area = sum(area))
+  
+  df_nhoods_map <- df_control_nhoods %>%
     transmute(neighborhood = name,
               geometry) %>%
-    st_make_valid() %>%
-    st_difference(df_boundaries %>% select(geometry))  %>%
     bind_rows(df_boundaries %>% transmute(neighborhood = nhood_name, geometry))
   
-  return(list('df_analysis_nhoods' = bind_rows(df_treatment, df_control), 'df_map' = df_map))
+  return(list('df_analysis_nhoods' = df_analysis_nhoods, 'df_nhood_areas' = df_nhood_areas, 'df_nhoods_map' = df_nhoods_map))
   
 }
