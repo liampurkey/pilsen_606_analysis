@@ -1,0 +1,5 @@
+raw_data/Zoning_asof_17DEC2021 filter=lfs diff=lfs merge=lfs -text
+raw_data/boundaries_pilsen.kml filter=lfs diff=lfs merge=lfs -text
+raw_data/boundaries_sos.kml filter=lfs diff=lfs merge=lfs -text
+raw_data/building_permits.csv filter=lfs diff=lfs merge=lfs -text
+raw_data/chicago_neighborhoods.geojson filter=lfs diff=lfs merge=lfs -text
