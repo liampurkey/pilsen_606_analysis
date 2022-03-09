@@ -1,6 +1,6 @@
 #This script runs the analysis
 library(here)
-build_data <- TRUE
+build_data <- FALSE
 
 source(here("pgm", "prelim.R"))
 
@@ -34,6 +34,13 @@ if (isTRUE(build_data)) {
   
 } else {
   
-  #df_analysis <- read_csv(here("clean_data", "nhood_permits.csv"))
+  analysis_data_list = list(
+    df_pilsen_decon_demo = 'pilsen_decon_demo.csv',
+    df_sos_decon_demo = 'sos_decon_demo.csv',
+    df_pilsen_construction = 'pilsen_construction.csv',
+    df_sos_construction = 'sos_construction.csv'
+  )
+  
+  source()
   
 }
