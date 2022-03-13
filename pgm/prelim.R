@@ -6,8 +6,13 @@ library(sf)
 library(spData)
 library(tmap)
 library(here)
+library(RColorBrewer)
 
-#Functions for project
+#Plot settings
+tc_colors = scale_color_manual(values = c('#2B83BA', '#ABDDA4'))
+
+year_scale = scale_x_continuous(breaks = seq(2006, 2021, 3))
+
 plot_theme <- function() {
   
   # Generate the colors for the chart procedurally with RColorBrewer
@@ -68,7 +73,7 @@ build_analysis_nhoods <- function(df_zoning, df_boundaries, df_control_nhoods, z
     st_intersection(df_control_nhoods %>% st_make_valid()) %>%
     transmute(neighborhood = name)
   
-  df_analysis_nhoods = bind_rows(df_treatment, df_control) 
+  df_analysis_nhoods = bind_rows(df_treatment, df_control)
     
   df_nhood_areas = df_analysis_nhoods %>%
     mutate(area = drop_units(st_area(.)) / 27878400) %>%
@@ -82,5 +87,17 @@ build_analysis_nhoods <- function(df_zoning, df_boundaries, df_control_nhoods, z
     bind_rows(df_boundaries %>% transmute(neighborhood = nhood_name, geometry))
   
   return(list('df_analysis_nhoods' = df_analysis_nhoods, 'df_nhood_areas' = df_nhood_areas, 'df_nhoods_map' = df_nhoods_map))
+  
+}
+
+reorder_nhoods <- function(df) {
+  
+  df_out <- df %>%
+    mutate(plot_order = case_when(Neighborhood != 'Control neighborhoods' ~ 1,
+                                  Neighborhood == 'Control neighborhoods' ~ 2)) %>%
+    mutate(Neighborhood = fct_reorder(Neighborhood, plot_order)) %>%
+    select(-plot_order)
+  
+  return(df_out)
   
 }

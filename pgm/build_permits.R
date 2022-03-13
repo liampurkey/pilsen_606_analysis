@@ -5,7 +5,7 @@ df_permits_clean <- df_permits %>%
   filter(!is.na(LOCATION)) %>%
   transmute(permit_type = PERMIT_TYPE,
             issue_date = as_date(ISSUE_DATE, format = "%m/%d/%Y"), 
-            year = year(as.period(interval(start = as_date("01/27/2006", format = "%m/%d/%Y"), end = issue_date))) + 2006,
+            year = as.numeric(year(as.period(interval(start = as_date("01/27/2006", format = "%m/%d/%Y"), end = issue_date)))) + 2006,
             description = WORK_DESCRIPTION,
             latitude = LATITUDE,
             longitude = LONGITUDE) %>%
@@ -44,7 +44,8 @@ df_pilsen_decon_demo <- df_decon_demo_permits %>%
   complete(neighborhood, year, fill = list(n_permits = 0)) %>%
   inner_join(pilsen_nhood_data$df_nhood_areas, by = 'neighborhood') %>%
   mutate(permits_per_sm = n_permits / area) %>%
-  select(-area)
+  select(-area) %>%
+  mutate(treatment = if_else(neighborhood == 'pilsen', 1, 0))
 
 df_pilsen_construction <- df_constuction_permits %>%
   st_intersection(df_pilsen_nhoods) %>%
@@ -55,7 +56,8 @@ df_pilsen_construction <- df_constuction_permits %>%
   complete(neighborhood, year, fill = list(n_permits = 0)) %>%
   inner_join(pilsen_nhood_data$df_nhood_areas, by = 'neighborhood') %>%
   mutate(permits_per_sm = n_permits / area) %>%
-  select(-area)
+  select(-area) %>%
+  mutate(treatment = if_else(neighborhood == 'pilsen', 1, 0))
 
 df_pilsen_map <- pilsen_nhood_data$df_nhoods_map
 
@@ -74,7 +76,8 @@ df_sos_decon_demo <- df_decon_demo_permits %>%
   complete(neighborhood, year, fill = list(n_permits = 0)) %>%
   inner_join(sos_nhood_data$df_nhood_areas, by = 'neighborhood') %>%
   mutate(permits_per_sm = n_permits / area) %>%
-  select(-area)
+  select(-area) %>%
+  mutate(treatment = if_else(neighborhood == 'sos', 1, 0))
 
 df_sos_construction <- df_constuction_permits %>%
   st_intersection(df_sos_nhoods) %>%
@@ -85,7 +88,8 @@ df_sos_construction <- df_constuction_permits %>%
   complete(neighborhood, year, fill = list(n_permits = 0)) %>%
   inner_join(sos_nhood_data$df_nhood_areas, by = 'neighborhood') %>%
   mutate(permits_per_sm = n_permits / area) %>%
-  select(-area)
+  select(-area) %>%
+  mutate(treatment = if_else(neighborhood == 'sos', 1, 0))
 
 df_sos_map <- sos_nhood_data$df_nhoods_map
 

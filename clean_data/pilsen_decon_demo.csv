@@ -1,1921 +1,1921 @@
-neighborhood,year,n_permits,permits_per_sm
-Albany Park,2006,2,6.471747991313275
-Albany Park,2007,4,12.94349598262655
-Albany Park,2008,3,9.707621986969912
-Albany Park,2009,2,6.471747991313275
-Albany Park,2010,0,0
-Albany Park,2011,0,0
-Albany Park,2012,1,3.2358739956566374
-Albany Park,2013,3,9.707621986969912
-Albany Park,2014,1,3.2358739956566374
-Albany Park,2015,1,3.2358739956566374
-Albany Park,2016,1,3.2358739956566374
-Albany Park,2017,0,0
-Albany Park,2018,2,6.471747991313275
-Albany Park,2019,0,0
-Albany Park,2020,3,9.707621986969912
-Albany Park,2021,4,12.94349598262655
-Andersonville,2006,0,0
-Andersonville,2007,0,0
-Andersonville,2008,0,0
-Andersonville,2009,0,0
-Andersonville,2010,0,0
-Andersonville,2011,1,324.0566209698524
-Andersonville,2012,0,0
-Andersonville,2013,0,0
-Andersonville,2014,0,0
-Andersonville,2015,0,0
-Andersonville,2016,0,0
-Andersonville,2017,0,0
-Andersonville,2018,1,324.0566209698524
-Andersonville,2019,0,0
-Andersonville,2020,0,0
-Andersonville,2021,0,0
-Avondale,2006,3,60.098253873755446
-Avondale,2007,2,40.06550258250363
-Avondale,2008,0,0
-Avondale,2009,1,20.032751291251817
-Avondale,2010,0,0
-Avondale,2011,1,20.032751291251817
-Avondale,2012,0,0
-Avondale,2013,1,20.032751291251817
-Avondale,2014,0,0
-Avondale,2015,0,0
-Avondale,2016,1,20.032751291251817
-Avondale,2017,1,20.032751291251817
-Avondale,2018,2,40.06550258250363
-Avondale,2019,1,20.032751291251817
-Avondale,2020,1,20.032751291251817
-Avondale,2021,1,20.032751291251817
-Back of the Yards,2006,0,0
-Back of the Yards,2007,2,10.279815918065045
-Back of the Yards,2008,1,5.139907959032523
-Back of the Yards,2009,8,41.11926367226018
-Back of the Yards,2010,4,20.55963183613009
-Back of the Yards,2011,1,5.139907959032523
-Back of the Yards,2012,3,15.419723877097569
-Back of the Yards,2013,0,0
-Back of the Yards,2014,1,5.139907959032523
-Back of the Yards,2015,3,15.419723877097569
-Back of the Yards,2016,2,10.279815918065045
-Back of the Yards,2017,9,46.25917163129271
-Back of the Yards,2018,3,15.419723877097569
-Back of the Yards,2019,1,5.139907959032523
-Back of the Yards,2020,1,5.139907959032523
-Back of the Yards,2021,1,5.139907959032523
-Belmont Central,2006,0,0
-Belmont Central,2007,0,0
-Belmont Central,2008,0,0
-Belmont Central,2009,0,0
-Belmont Central,2010,0,0
-Belmont Central,2011,0,0
-Belmont Central,2012,0,0
-Belmont Central,2013,2,123.89901511689155
-Belmont Central,2014,0,0
-Belmont Central,2015,0,0
-Belmont Central,2016,0,0
-Belmont Central,2017,0,0
-Belmont Central,2018,0,0
-Belmont Central,2019,0,0
-Belmont Central,2020,0,0
-Belmont Central,2021,0,0
-Belmont Heights,2006,0,0
-Belmont Heights,2007,1,35.69794930838281
-Belmont Heights,2008,1,35.69794930838281
-Belmont Heights,2009,0,0
-Belmont Heights,2010,0,0
-Belmont Heights,2011,0,0
-Belmont Heights,2012,0,0
-Belmont Heights,2013,0,0
-Belmont Heights,2014,0,0
-Belmont Heights,2015,0,0
-Belmont Heights,2016,0,0
-Belmont Heights,2017,1,35.69794930838281
-Belmont Heights,2018,0,0
-Belmont Heights,2019,0,0
-Belmont Heights,2020,0,0
-Belmont Heights,2021,0,0
-Bowmanville,2006,0,0
-Bowmanville,2007,1,102.89592698063379
-Bowmanville,2008,0,0
-Bowmanville,2009,0,0
-Bowmanville,2010,0,0
-Bowmanville,2011,0,0
-Bowmanville,2012,0,0
-Bowmanville,2013,0,0
-Bowmanville,2014,0,0
-Bowmanville,2015,0,0
-Bowmanville,2016,0,0
-Bowmanville,2017,1,102.89592698063379
-Bowmanville,2018,1,102.89592698063379
-Bowmanville,2019,1,102.89592698063379
-Bowmanville,2020,1,102.89592698063379
-Bowmanville,2021,0,0
-Brainerd,2006,0,0
-Brainerd,2007,0,0
-Brainerd,2008,0,0
-Brainerd,2009,0,0
-Brainerd,2010,0,0
-Brainerd,2011,0,0
-Brainerd,2012,1,80.14787899777357
-Brainerd,2013,0,0
-Brainerd,2014,0,0
-Brainerd,2015,1,80.14787899777357
-Brainerd,2016,0,0
-Brainerd,2017,0,0
-Brainerd,2018,0,0
-Brainerd,2019,0,0
-Brainerd,2020,0,0
-Brainerd,2021,0,0
-Bridgeport,2006,6,28.27497994957315
-Bridgeport,2007,3,14.137489974786575
-Bridgeport,2008,1,4.712496658262191
-Bridgeport,2009,2,9.424993316524382
-Bridgeport,2010,1,4.712496658262191
-Bridgeport,2011,0,0
-Bridgeport,2012,1,4.712496658262191
-Bridgeport,2013,0,0
-Bridgeport,2014,1,4.712496658262191
-Bridgeport,2015,1,4.712496658262191
-Bridgeport,2016,0,0
-Bridgeport,2017,3,14.137489974786575
-Bridgeport,2018,2,9.424993316524382
-Bridgeport,2019,5,23.562483291310958
-Bridgeport,2020,2,9.424993316524382
-Bridgeport,2021,1,4.712496658262191
-Brighton Park,2006,2,46.12334035864458
-Brighton Park,2007,1,23.06167017932229
-Brighton Park,2008,0,0
-Brighton Park,2009,0,0
-Brighton Park,2010,0,0
-Brighton Park,2011,0,0
-Brighton Park,2012,0,0
-Brighton Park,2013,0,0
-Brighton Park,2014,1,23.06167017932229
-Brighton Park,2015,0,0
-Brighton Park,2016,0,0
-Brighton Park,2017,0,0
-Brighton Park,2018,0,0
-Brighton Park,2019,0,0
-Brighton Park,2020,0,0
-Brighton Park,2021,0,0
-Bronzeville,2006,15,10.920588878282006
-Bronzeville,2007,17,12.376667395386274
-Bronzeville,2008,10,7.280392585521337
-Bronzeville,2009,9,6.552353326969204
-Bronzeville,2010,12,8.736471102625606
-Bronzeville,2011,7,5.096274809864936
-Bronzeville,2012,16,11.648628136834139
-Bronzeville,2013,8,5.8243140684170696
-Bronzeville,2014,9,6.552353326969204
-Bronzeville,2015,9,6.552353326969204
-Bronzeville,2016,11,8.00843184407347
-Bronzeville,2017,7,5.096274809864936
-Bronzeville,2018,7,5.096274809864936
-Bronzeville,2019,6,4.368235551312803
-Bronzeville,2020,5,3.6401962927606686
-Bronzeville,2021,0,0
-Bucktown,2006,7,34.54242775414511
-Bucktown,2007,12,59.215590435677335
-Bucktown,2008,3,14.803897608919334
-Bucktown,2009,1,4.934632536306444
-Bucktown,2010,3,14.803897608919334
-Bucktown,2011,3,14.803897608919334
-Bucktown,2012,7,34.54242775414511
-Bucktown,2013,9,44.411692826758
-Bucktown,2014,13,64.15022297198378
-Bucktown,2015,14,69.08485550829022
-Bucktown,2016,9,44.411692826758
-Bucktown,2017,16,78.95412058090311
-Bucktown,2018,8,39.477060290451554
-Bucktown,2019,4,19.738530145225777
-Bucktown,2020,3,14.803897608919334
-Bucktown,2021,5,24.673162681532222
-Budlong Woods,2006,1,16.475015535012066
-Budlong Woods,2007,0,0
-Budlong Woods,2008,0,0
-Budlong Woods,2009,0,0
-Budlong Woods,2010,0,0
-Budlong Woods,2011,0,0
-Budlong Woods,2012,0,0
-Budlong Woods,2013,0,0
-Budlong Woods,2014,0,0
-Budlong Woods,2015,0,0
-Budlong Woods,2016,0,0
-Budlong Woods,2017,0,0
-Budlong Woods,2018,1,16.475015535012066
-Budlong Woods,2019,0,0
-Budlong Woods,2020,0,0
-Budlong Woods,2021,0,0
-Buena Park,2006,1,5.516433372075926
-Buena Park,2007,2,11.032866744151852
-Buena Park,2008,2,11.032866744151852
-Buena Park,2009,0,0
-Buena Park,2010,0,0
-Buena Park,2011,1,5.516433372075926
-Buena Park,2012,0,0
-Buena Park,2013,0,0
-Buena Park,2014,2,11.032866744151852
-Buena Park,2015,0,0
-Buena Park,2016,0,0
-Buena Park,2017,0,0
-Buena Park,2018,0,0
-Buena Park,2019,1,5.516433372075926
-Buena Park,2020,0,0
-Buena Park,2021,0,0
-Burnside,2006,0,0
-Burnside,2007,0,0
-Burnside,2008,0,0
-Burnside,2009,0,0
-Burnside,2010,0,0
-Burnside,2011,0,0
-Burnside,2012,0,0
-Burnside,2013,0,0
-Burnside,2014,0,0
-Burnside,2015,0,0
-Burnside,2016,0,0
-Burnside,2017,0,0
-Burnside,2018,0,0
-Burnside,2019,1,16.70260063508485
-Burnside,2020,0,0
-Burnside,2021,0,0
-Cabrini Green,2006,0,0
-Cabrini Green,2007,0,0
-Cabrini Green,2008,0,0
-Cabrini Green,2009,1,20.514134439425536
-Cabrini Green,2010,0,0
-Cabrini Green,2011,2,41.02826887885107
-Cabrini Green,2012,1,20.514134439425536
-Cabrini Green,2013,0,0
-Cabrini Green,2014,0,0
-Cabrini Green,2015,0,0
-Cabrini Green,2016,0,0
-Cabrini Green,2017,0,0
-Cabrini Green,2018,0,0
-Cabrini Green,2019,0,0
-Cabrini Green,2020,0,0
-Cabrini Green,2021,0,0
-Canaryville,2006,0,0
-Canaryville,2007,0,0
-Canaryville,2008,0,0
-Canaryville,2009,0,0
-Canaryville,2010,0,0
-Canaryville,2011,0,0
-Canaryville,2012,0,0
-Canaryville,2013,0,0
-Canaryville,2014,0,0
-Canaryville,2015,1,104.99938749719145
-Canaryville,2016,0,0
-Canaryville,2017,0,0
-Canaryville,2018,0,0
-Canaryville,2019,0,0
-Canaryville,2020,0,0
-Canaryville,2021,0,0
-Chatham,2006,1,4.118084113367752
-Chatham,2007,0,0
-Chatham,2008,1,4.118084113367752
-Chatham,2009,0,0
-Chatham,2010,0,0
-Chatham,2011,2,8.236168226735504
-Chatham,2012,1,4.118084113367752
-Chatham,2013,0,0
-Chatham,2014,0,0
-Chatham,2015,0,0
-Chatham,2016,1,4.118084113367752
-Chatham,2017,0,0
-Chatham,2018,0,0
-Chatham,2019,0,0
-Chatham,2020,0,0
-Chatham,2021,0,0
-Chinatown,2006,0,0
-Chinatown,2007,0,0
-Chinatown,2008,0,0
-Chinatown,2009,0,0
-Chinatown,2010,1,15.338779690624602
-Chinatown,2011,0,0
-Chinatown,2012,0,0
-Chinatown,2013,0,0
-Chinatown,2014,0,0
-Chinatown,2015,0,0
-Chinatown,2016,2,30.677559381249203
-Chinatown,2017,0,0
-Chinatown,2018,0,0
-Chinatown,2019,0,0
-Chinatown,2020,1,15.338779690624602
-Chinatown,2021,1,15.338779690624602
-Cragin,2006,0,0
-Cragin,2007,0,0
-Cragin,2008,0,0
-Cragin,2009,0,0
-Cragin,2010,0,0
-Cragin,2011,1,139.5198550729414
-Cragin,2012,0,0
-Cragin,2013,0,0
-Cragin,2014,0,0
-Cragin,2015,0,0
-Cragin,2016,0,0
-Cragin,2017,0,0
-Cragin,2018,0,0
-Cragin,2019,0,0
-Cragin,2020,0,0
-Cragin,2021,0,0
-Douglas Park,2006,1,13.313961875177863
-Douglas Park,2007,2,26.627923750355727
-Douglas Park,2008,2,26.627923750355727
-Douglas Park,2009,0,0
-Douglas Park,2010,0,0
-Douglas Park,2011,4,53.255847500711454
-Douglas Park,2012,2,26.627923750355727
-Douglas Park,2013,0,0
-Douglas Park,2014,1,13.313961875177863
-Douglas Park,2015,0,0
-Douglas Park,2016,0,0
-Douglas Park,2017,1,13.313961875177863
-Douglas Park,2018,1,13.313961875177863
-Douglas Park,2019,1,13.313961875177863
-Douglas Park,2020,0,0
-Douglas Park,2021,0,0
-East Garfield Park,2006,7,9.329099880950286
-East Garfield Park,2007,5,6.663642772107347
-East Garfield Park,2008,5,6.663642772107347
-East Garfield Park,2009,7,9.329099880950286
-East Garfield Park,2010,19,25.32184253400792
-East Garfield Park,2011,9,11.994556989793224
-East Garfield Park,2012,19,25.32184253400792
-East Garfield Park,2013,11,14.660014098636164
-East Garfield Park,2014,8,10.661828435371755
-East Garfield Park,2015,5,6.663642772107347
-East Garfield Park,2016,10,13.327285544214694
-East Garfield Park,2017,12,15.992742653057633
-East Garfield Park,2018,6,7.996371326528816
-East Garfield Park,2019,8,10.661828435371755
-East Garfield Park,2020,1,1.3327285544214693
-East Garfield Park,2021,4,5.330914217685877
-East Hyde Park,2006,0,0
-East Hyde Park,2007,1,7.604794866240962
-East Hyde Park,2008,1,7.604794866240962
-East Hyde Park,2009,0,0
-East Hyde Park,2010,0,0
-East Hyde Park,2011,0,0
-East Hyde Park,2012,0,0
-East Hyde Park,2013,0,0
-East Hyde Park,2014,0,0
-East Hyde Park,2015,0,0
-East Hyde Park,2016,0,0
-East Hyde Park,2017,0,0
-East Hyde Park,2018,0,0
-East Hyde Park,2019,0,0
-East Hyde Park,2020,0,0
-East Hyde Park,2021,0,0
-East Pilsen,2006,1,14.375701458069194
-East Pilsen,2007,0,0
-East Pilsen,2008,0,0
-East Pilsen,2009,1,14.375701458069194
-East Pilsen,2010,0,0
-East Pilsen,2011,1,14.375701458069194
-East Pilsen,2012,0,0
-East Pilsen,2013,0,0
-East Pilsen,2014,0,0
-East Pilsen,2015,1,14.375701458069194
-East Pilsen,2016,1,14.375701458069194
-East Pilsen,2017,2,28.75140291613839
-East Pilsen,2018,1,14.375701458069194
-East Pilsen,2019,0,0
-East Pilsen,2020,2,28.75140291613839
-East Pilsen,2021,0,0
-East Ukrainian Village,2006,12,62.083089657276005
-East Ukrainian Village,2007,8,41.388726438184
-East Ukrainian Village,2008,11,56.909498852503006
-East Ukrainian Village,2009,6,31.041544828638003
-East Ukrainian Village,2010,4,20.694363219092
-East Ukrainian Village,2011,5,25.867954023865
-East Ukrainian Village,2012,5,25.867954023865
-East Ukrainian Village,2013,8,41.388726438184
-East Ukrainian Village,2014,6,31.041544828638003
-East Ukrainian Village,2015,6,31.041544828638003
-East Ukrainian Village,2016,9,46.562317242957
-East Ukrainian Village,2017,13,67.256680462049
-East Ukrainian Village,2018,12,62.083089657276005
-East Ukrainian Village,2019,2,10.347181609546
-East Ukrainian Village,2020,5,25.867954023865
-East Ukrainian Village,2021,8,41.388726438184
-Eden Green,2006,0,0
-Eden Green,2007,0,0
-Eden Green,2008,0,0
-Eden Green,2009,0,0
-Eden Green,2010,1,590.7983637982165
-Eden Green,2011,0,0
-Eden Green,2012,0,0
-Eden Green,2013,0,0
-Eden Green,2014,0,0
-Eden Green,2015,0,0
-Eden Green,2016,0,0
-Eden Green,2017,0,0
-Eden Green,2018,0,0
-Eden Green,2019,0,0
-Eden Green,2020,0,0
-Eden Green,2021,0,0
-Edgewater,2006,2,62.768807123857215
-Edgewater,2007,0,0
-Edgewater,2008,0,0
-Edgewater,2009,0,0
-Edgewater,2010,0,0
-Edgewater,2011,0,0
-Edgewater,2012,0,0
-Edgewater,2013,0,0
-Edgewater,2014,1,31.384403561928607
-Edgewater,2015,0,0
-Edgewater,2016,0,0
-Edgewater,2017,1,31.384403561928607
-Edgewater,2018,0,0
-Edgewater,2019,0,0
-Edgewater,2020,0,0
-Edgewater,2021,1,31.384403561928607
-Edgewater Beach,2006,2,13.182563843008989
-Edgewater Beach,2007,2,13.182563843008989
-Edgewater Beach,2008,1,6.591281921504494
-Edgewater Beach,2009,2,13.182563843008989
-Edgewater Beach,2010,0,0
-Edgewater Beach,2011,0,0
-Edgewater Beach,2012,0,0
-Edgewater Beach,2013,0,0
-Edgewater Beach,2014,0,0
-Edgewater Beach,2015,0,0
-Edgewater Beach,2016,0,0
-Edgewater Beach,2017,0,0
-Edgewater Beach,2018,0,0
-Edgewater Beach,2019,0,0
-Edgewater Beach,2020,1,6.591281921504494
-Edgewater Beach,2021,0,0
-Edison Park,2006,1,20.521137837313873
-Edison Park,2007,5,102.60568918656936
-Edison Park,2008,0,0
-Edison Park,2009,0,0
-Edison Park,2010,3,61.56341351194162
-Edison Park,2011,0,0
-Edison Park,2012,0,0
-Edison Park,2013,0,0
-Edison Park,2014,1,20.521137837313873
-Edison Park,2015,0,0
-Edison Park,2016,0,0
-Edison Park,2017,0,0
-Edison Park,2018,1,20.521137837313873
-Edison Park,2019,0,0
-Edison Park,2020,0,0
-Edison Park,2021,0,0
-Englewood,2006,3,3.261738594627546
-Englewood,2007,7,7.610723387464274
-Englewood,2008,4,4.3489847928367285
-Englewood,2009,8,8.697969585673457
-Englewood,2010,11,11.959708180301003
-Englewood,2011,8,8.697969585673457
-Englewood,2012,20,21.74492396418364
-Englewood,2013,16,17.395939171346914
-Englewood,2014,10,10.87246198209182
-Englewood,2015,8,8.697969585673457
-Englewood,2016,13,14.134200576719367
-Englewood,2017,18,19.570431567765276
-Englewood,2018,8,8.697969585673457
-Englewood,2019,21,22.832170162392824
-Englewood,2020,7,7.610723387464274
-Englewood,2021,8,8.697969585673457
-Fifth City,2006,0,0
-Fifth City,2007,1,8.269142670803808
-Fifth City,2008,0,0
-Fifth City,2009,1,8.269142670803808
-Fifth City,2010,3,24.80742801241142
-Fifth City,2011,1,8.269142670803808
-Fifth City,2012,6,49.61485602482284
-Fifth City,2013,2,16.538285341607615
-Fifth City,2014,2,16.538285341607615
-Fifth City,2015,0,0
-Fifth City,2016,0,0
-Fifth City,2017,2,16.538285341607615
-Fifth City,2018,4,33.07657068321523
-Fifth City,2019,3,24.80742801241142
-Fifth City,2020,0,0
-Fifth City,2021,1,8.269142670803808
-Fuller Park,2006,0,0
-Fuller Park,2007,0,0
-Fuller Park,2008,0,0
-Fuller Park,2009,0,0
-Fuller Park,2010,0,0
-Fuller Park,2011,0,0
-Fuller Park,2012,0,0
-Fuller Park,2013,0,0
-Fuller Park,2014,1,158.31275874298697
-Fuller Park,2015,0,0
-Fuller Park,2016,0,0
-Fuller Park,2017,0,0
-Fuller Park,2018,0,0
-Fuller Park,2019,0,0
-Fuller Park,2020,0,0
-Fuller Park,2021,0,0
-Gage Park,2006,1,86.03705527743978
-Gage Park,2007,0,0
-Gage Park,2008,0,0
-Gage Park,2009,1,86.03705527743978
-Gage Park,2010,0,0
-Gage Park,2011,0,0
-Gage Park,2012,0,0
-Gage Park,2013,0,0
-Gage Park,2014,0,0
-Gage Park,2015,0,0
-Gage Park,2016,0,0
-Gage Park,2017,0,0
-Gage Park,2018,1,86.03705527743978
-Gage Park,2019,0,0
-Gage Park,2020,0,0
-Gage Park,2021,0,0
-Galewood,2006,0,0
-Galewood,2007,0,0
-Galewood,2008,0,0
-Galewood,2009,0,0
-Galewood,2010,1,36.02826566360294
-Galewood,2011,0,0
-Galewood,2012,0,0
-Galewood,2013,0,0
-Galewood,2014,0,0
-Galewood,2015,0,0
-Galewood,2016,0,0
-Galewood,2017,0,0
-Galewood,2018,0,0
-Galewood,2019,0,0
-Galewood,2020,0,0
-Galewood,2021,0,0
-Garfield Ridge,2006,0,0
-Garfield Ridge,2007,0,0
-Garfield Ridge,2008,0,0
-Garfield Ridge,2009,0,0
-Garfield Ridge,2010,0,0
-Garfield Ridge,2011,1,29.372447950120186
-Garfield Ridge,2012,0,0
-Garfield Ridge,2013,0,0
-Garfield Ridge,2014,0,0
-Garfield Ridge,2015,0,0
-Garfield Ridge,2016,0,0
-Garfield Ridge,2017,0,0
-Garfield Ridge,2018,0,0
-Garfield Ridge,2019,0,0
-Garfield Ridge,2020,0,0
-Garfield Ridge,2021,0,0
-Gold Coast,2006,8,65.51012592314319
-Gold Coast,2007,2,16.377531480785798
-Gold Coast,2008,2,16.377531480785798
-Gold Coast,2009,3,24.566297221178697
-Gold Coast,2010,1,8.188765740392899
-Gold Coast,2011,2,16.377531480785798
-Gold Coast,2012,0,0
-Gold Coast,2013,1,8.188765740392899
-Gold Coast,2014,1,8.188765740392899
-Gold Coast,2015,0,0
-Gold Coast,2016,2,16.377531480785798
-Gold Coast,2017,1,8.188765740392899
-Gold Coast,2018,1,8.188765740392899
-Gold Coast,2019,0,0
-Gold Coast,2020,2,16.377531480785798
-Gold Coast,2021,0,0
-Goose Island,2006,1,14.252320631241501
-Goose Island,2007,0,0
-Goose Island,2008,0,0
-Goose Island,2009,2,28.504641262483002
-Goose Island,2010,0,0
-Goose Island,2011,3,42.7569618937245
-Goose Island,2012,0,0
-Goose Island,2013,0,0
-Goose Island,2014,0,0
-Goose Island,2015,0,0
-Goose Island,2016,0,0
-Goose Island,2017,0,0
-Goose Island,2018,0,0
-Goose Island,2019,0,0
-Goose Island,2020,1,14.252320631241501
-Goose Island,2021,0,0
-Grand Crossing,2006,0,0
-Grand Crossing,2007,0,0
-Grand Crossing,2008,0,0
-Grand Crossing,2009,0,0
-Grand Crossing,2010,0,0
-Grand Crossing,2011,1,2.3103611724573816
-Grand Crossing,2012,1,2.3103611724573816
-Grand Crossing,2013,2,4.620722344914763
-Grand Crossing,2014,0,0
-Grand Crossing,2015,0,0
-Grand Crossing,2016,0,0
-Grand Crossing,2017,1,2.3103611724573816
-Grand Crossing,2018,8,18.482889379659053
-Grand Crossing,2019,0,0
-Grand Crossing,2020,0,0
-Grand Crossing,2021,1,2.3103611724573816
-Gresham,2006,0,0
-Gresham,2007,0,0
-Gresham,2008,0,0
-Gresham,2009,4,14.952501284249959
-Gresham,2010,3,11.214375963187468
-Gresham,2011,1,3.7381253210624896
-Gresham,2012,2,7.476250642124979
-Gresham,2013,2,7.476250642124979
-Gresham,2014,3,11.214375963187468
-Gresham,2015,1,3.7381253210624896
-Gresham,2016,0,0
-Gresham,2017,4,14.952501284249959
-Gresham,2018,4,14.952501284249959
-Gresham,2019,1,3.7381253210624896
-Gresham,2020,0,0
-Gresham,2021,1,3.7381253210624896
-Heart of Chicago,2006,0,0
-Heart of Chicago,2007,0,0
-Heart of Chicago,2008,1,119.96645963411775
-Heart of Chicago,2009,0,0
-Heart of Chicago,2010,0,0
-Heart of Chicago,2011,1,119.96645963411775
-Heart of Chicago,2012,0,0
-Heart of Chicago,2013,0,0
-Heart of Chicago,2014,0,0
-Heart of Chicago,2015,0,0
-Heart of Chicago,2016,0,0
-Heart of Chicago,2017,0,0
-Heart of Chicago,2018,0,0
-Heart of Chicago,2019,0,0
-Heart of Chicago,2020,0,0
-Heart of Chicago,2021,0,0
-Hegewisch,2006,0,0
-Hegewisch,2007,0,0
-Hegewisch,2008,0,0
-Hegewisch,2009,0,0
-Hegewisch,2010,0,0
-Hegewisch,2011,0,0
-Hegewisch,2012,2,147.48509112082823
-Hegewisch,2013,0,0
-Hegewisch,2014,0,0
-Hegewisch,2015,0,0
-Hegewisch,2016,0,0
-Hegewisch,2017,0,0
-Hegewisch,2018,0,0
-Hegewisch,2019,0,0
-Hegewisch,2020,0,0
-Hegewisch,2021,0,0
-Hermosa,2006,0,0
-Hermosa,2007,1,748.6433149345647
-Hermosa,2008,0,0
-Hermosa,2009,0,0
-Hermosa,2010,0,0
-Hermosa,2011,0,0
-Hermosa,2012,0,0
-Hermosa,2013,0,0
-Hermosa,2014,0,0
-Hermosa,2015,0,0
-Hermosa,2016,0,0
-Hermosa,2017,0,0
-Hermosa,2018,0,0
-Hermosa,2019,0,0
-Hermosa,2020,0,0
-Hermosa,2021,0,0
-Hollywood Park,2006,0,0
-Hollywood Park,2007,0,0
-Hollywood Park,2008,0,0
-Hollywood Park,2009,1,36.187887133358785
-Hollywood Park,2010,0,0
-Hollywood Park,2011,0,0
-Hollywood Park,2012,0,0
-Hollywood Park,2013,0,0
-Hollywood Park,2014,0,0
-Hollywood Park,2015,0,0
-Hollywood Park,2016,0,0
-Hollywood Park,2017,0,0
-Hollywood Park,2018,0,0
-Hollywood Park,2019,0,0
-Hollywood Park,2020,0,0
-Hollywood Park,2021,0,0
-Homan Square,2006,0,0
-Homan Square,2007,2,15.223383041139275
-Homan Square,2008,1,7.611691520569638
-Homan Square,2009,0,0
-Homan Square,2010,2,15.223383041139275
-Homan Square,2011,0,0
-Homan Square,2012,2,15.223383041139275
-Homan Square,2013,4,30.44676608227855
-Homan Square,2014,0,0
-Homan Square,2015,3,22.83507456170891
-Homan Square,2016,0,0
-Homan Square,2017,0,0
-Homan Square,2018,0,0
-Homan Square,2019,2,15.223383041139275
-Homan Square,2020,1,7.611691520569638
-Homan Square,2021,0,0
-Humboldt Park,2006,21,130.49775722794791
-Humboldt Park,2007,4,24.85671566246627
-Humboldt Park,2008,5,31.070894578082836
-Humboldt Park,2009,2,12.428357831233136
-Humboldt Park,2010,1,6.214178915616568
-Humboldt Park,2011,0,0
-Humboldt Park,2012,1,6.214178915616568
-Humboldt Park,2013,4,24.85671566246627
-Humboldt Park,2014,6,37.28507349369941
-Humboldt Park,2015,8,49.71343132493254
-Humboldt Park,2016,7,43.49925240931597
-Humboldt Park,2017,5,31.070894578082836
-Humboldt Park,2018,6,37.28507349369941
-Humboldt Park,2019,5,31.070894578082836
-Humboldt Park,2020,7,43.49925240931597
-Humboldt Park,2021,6,37.28507349369941
-Hyde Park,2006,3,8.467379412712898
-Hyde Park,2007,1,2.8224598042376323
-Hyde Park,2008,5,14.112299021188162
-Hyde Park,2009,2,5.644919608475265
-Hyde Park,2010,1,2.8224598042376323
-Hyde Park,2011,2,5.644919608475265
-Hyde Park,2012,0,0
-Hyde Park,2013,0,0
-Hyde Park,2014,1,2.8224598042376323
-Hyde Park,2015,0,0
-Hyde Park,2016,0,0
-Hyde Park,2017,0,0
-Hyde Park,2018,3,8.467379412712898
-Hyde Park,2019,2,5.644919608475265
-Hyde Park,2020,0,0
-Hyde Park,2021,1,2.8224598042376323
-Ida B. Wells / Darrow Homes,2006,0,0
-Ida B. Wells / Darrow Homes,2007,8,126.11551986500763
-Ida B. Wells / Darrow Homes,2008,8,126.11551986500763
-Ida B. Wells / Darrow Homes,2009,0,0
-Ida B. Wells / Darrow Homes,2010,0,0
-Ida B. Wells / Darrow Homes,2011,4,63.057759932503814
-Ida B. Wells / Darrow Homes,2012,0,0
-Ida B. Wells / Darrow Homes,2013,0,0
-Ida B. Wells / Darrow Homes,2014,0,0
-Ida B. Wells / Darrow Homes,2015,0,0
-Ida B. Wells / Darrow Homes,2016,0,0
-Ida B. Wells / Darrow Homes,2017,0,0
-Ida B. Wells / Darrow Homes,2018,0,0
-Ida B. Wells / Darrow Homes,2019,0,0
-Ida B. Wells / Darrow Homes,2020,0,0
-Ida B. Wells / Darrow Homes,2021,0,0
-Irving Park,2006,0,0
-Irving Park,2007,0,0
-Irving Park,2008,0,0
-Irving Park,2009,0,0
-Irving Park,2010,0,0
-Irving Park,2011,0,0
-Irving Park,2012,0,0
-Irving Park,2013,0,0
-Irving Park,2014,0,0
-Irving Park,2015,1,53.803833983412396
-Irving Park,2016,0,0
-Irving Park,2017,0,0
-Irving Park,2018,0,0
-Irving Park,2019,0,0
-Irving Park,2020,0,0
-Irving Park,2021,0,0
-Jefferson Park,2006,7,69.05442688756239
-Jefferson Park,2007,1,9.864918126794628
-Jefferson Park,2008,0,0
-Jefferson Park,2009,0,0
-Jefferson Park,2010,1,9.864918126794628
-Jefferson Park,2011,1,9.864918126794628
-Jefferson Park,2012,0,0
-Jefferson Park,2013,2,19.729836253589255
-Jefferson Park,2014,0,0
-Jefferson Park,2015,1,9.864918126794628
-Jefferson Park,2016,2,19.729836253589255
-Jefferson Park,2017,0,0
-Jefferson Park,2018,3,29.594754380383883
-Jefferson Park,2019,0,0
-Jefferson Park,2020,2,19.729836253589255
-Jefferson Park,2021,0,0
-Kenwood,2006,3,19.904342968545876
-Kenwood,2007,0,0
-Kenwood,2008,0,0
-Kenwood,2009,0,0
-Kenwood,2010,0,0
-Kenwood,2011,0,0
-Kenwood,2012,0,0
-Kenwood,2013,0,0
-Kenwood,2014,0,0
-Kenwood,2015,0,0
-Kenwood,2016,1,6.634780989515292
-Kenwood,2017,0,0
-Kenwood,2018,0,0
-Kenwood,2019,0,0
-Kenwood,2020,0,0
-Kenwood,2021,0,0
-Kilbourn Park,2006,0,0
-Kilbourn Park,2007,0,0
-Kilbourn Park,2008,0,0
-Kilbourn Park,2009,0,0
-Kilbourn Park,2010,0,0
-Kilbourn Park,2011,0,0
-Kilbourn Park,2012,0,0
-Kilbourn Park,2013,0,0
-Kilbourn Park,2014,0,0
-Kilbourn Park,2015,0,0
-Kilbourn Park,2016,0,0
-Kilbourn Park,2017,0,0
-Kilbourn Park,2018,0,0
-Kilbourn Park,2019,1,173.59736201950395
-Kilbourn Park,2020,0,0
-Kilbourn Park,2021,3,520.7920860585118
-Lake Meadows,2006,0,0
-Lake Meadows,2007,0,0
-Lake Meadows,2008,0,0
-Lake Meadows,2009,0,0
-Lake Meadows,2010,0,0
-Lake Meadows,2011,0,0
-Lake Meadows,2012,0,0
-Lake Meadows,2013,0,0
-Lake Meadows,2014,0,0
-Lake Meadows,2015,1,56.99676534606057
-Lake Meadows,2016,0,0
-Lake Meadows,2017,0,0
-Lake Meadows,2018,0,0
-Lake Meadows,2019,0,0
-Lake Meadows,2020,0,0
-Lake Meadows,2021,0,0
-Lake View,2006,32,65.49297112604538
-Lake View,2007,18,36.839796258400526
-Lake View,2008,19,38.886451606089445
-Lake View,2009,5,10.23327673844459
-Lake View,2010,4,8.186621390755672
-Lake View,2011,10,20.46655347688918
-Lake View,2012,16,32.74648556302269
-Lake View,2013,17,34.79314091071161
-Lake View,2014,25,51.16638369222295
-Lake View,2015,15,30.69983021533377
-Lake View,2016,12,24.559864172267016
-Lake View,2017,10,20.46655347688918
-Lake View,2018,19,38.886451606089445
-Lake View,2019,18,36.839796258400526
-Lake View,2020,9,18.419898129200263
-Lake View,2021,10,20.46655347688918
-Lake View East,2006,19,51.31232092744987
-Lake View East,2007,4,10.802593879463132
-Lake View East,2008,5,13.503242349328913
-Lake View East,2009,4,10.802593879463132
-Lake View East,2010,4,10.802593879463132
-Lake View East,2011,4,10.802593879463132
-Lake View East,2012,1,2.700648469865783
-Lake View East,2013,2,5.401296939731566
-Lake View East,2014,4,10.802593879463132
-Lake View East,2015,10,27.006484698657825
-Lake View East,2016,6,16.203890819194697
-Lake View East,2017,2,5.401296939731566
-Lake View East,2018,4,10.802593879463132
-Lake View East,2019,4,10.802593879463132
-Lake View East,2020,3,8.101945409597349
-Lake View East,2021,1,2.700648469865783
-Lathrop Homes,2006,2,56.39850604842685
-Lathrop Homes,2007,1,28.199253024213426
-Lathrop Homes,2008,1,28.199253024213426
-Lathrop Homes,2009,0,0
-Lathrop Homes,2010,0,0
-Lathrop Homes,2011,0,0
-Lathrop Homes,2012,1,28.199253024213426
-Lathrop Homes,2013,0,0
-Lathrop Homes,2014,2,56.39850604842685
-Lathrop Homes,2015,0,0
-Lathrop Homes,2016,0,0
-Lathrop Homes,2017,1,28.199253024213426
-Lathrop Homes,2018,0,0
-Lathrop Homes,2019,1,28.199253024213426
-Lathrop Homes,2020,0,0
-Lathrop Homes,2021,0,0
-Lawndale,2006,7,4.831865151099865
-Lawndale,2007,17,11.7345296526711
-Lawndale,2008,17,11.7345296526711
-Lawndale,2009,18,12.424796102828223
-Lawndale,2010,29,20.01772705455658
-Lawndale,2011,15,10.353996752356853
-Lawndale,2012,21,14.495595453299593
-Lawndale,2013,23,15.876128353613842
-Lawndale,2014,16,11.044263202513976
-Lawndale,2015,15,10.353996752356853
-Lawndale,2016,25,17.256661253928087
-Lawndale,2017,22,15.185861903456717
-Lawndale,2018,28,19.32746060439946
-Lawndale,2019,23,15.876128353613842
-Lawndale,2020,8,5.522131601256988
-Lawndale,2021,7,4.831865151099865
-Lincoln Park,2006,14,45.39513942394743
-Lincoln Park,2007,14,45.39513942394743
-Lincoln Park,2008,10,32.425099588533875
-Lincoln Park,2009,5,16.212549794266938
-Lincoln Park,2010,6,19.455059753120324
-Lincoln Park,2011,6,19.455059753120324
-Lincoln Park,2012,18,58.36517925936098
-Lincoln Park,2013,13,42.15262946509404
-Lincoln Park,2014,10,32.425099588533875
-Lincoln Park,2015,22,71.33521909477453
-Lincoln Park,2016,20,64.85019917706775
-Lincoln Park,2017,18,58.36517925936098
-Lincoln Park,2018,12,38.91011950624065
-Lincoln Park,2019,9,29.18258962968049
-Lincoln Park,2020,12,38.91011950624065
-Lincoln Park,2021,14,45.39513942394743
-Lincoln Square,2006,0,0
-Lincoln Square,2007,0,0
-Lincoln Square,2008,0,0
-Lincoln Square,2009,0,0
-Lincoln Square,2010,0,0
-Lincoln Square,2011,0,0
-Lincoln Square,2012,0,0
-Lincoln Square,2013,0,0
-Lincoln Square,2014,0,0
-Lincoln Square,2015,0,0
-Lincoln Square,2016,0,0
-Lincoln Square,2017,1,155.1282607433999
-Lincoln Square,2018,1,155.1282607433999
-Lincoln Square,2019,0,0
-Lincoln Square,2020,0,0
-Lincoln Square,2021,1,155.1282607433999
-Little Village,2006,4,4.840068883183646
-Little Village,2007,4,4.840068883183646
-Little Village,2008,13,15.730223870346848
-Little Village,2009,10,12.100172207959114
-Little Village,2010,8,9.680137766367292
-Little Village,2011,12,14.520206649550937
-Little Village,2012,10,12.100172207959114
-Little Village,2013,6,7.260103324775469
-Little Village,2014,8,9.680137766367292
-Little Village,2015,11,13.310189428755026
-Little Village,2016,9,10.890154987163202
-Little Village,2017,2,2.420034441591823
-Little Village,2018,8,9.680137766367292
-Little Village,2019,9,10.890154987163202
-Little Village,2020,6,7.260103324775469
-Little Village,2021,6,7.260103324775469
-Logan Square,2006,1,6.141319479615089
-Logan Square,2007,3,18.42395843884527
-Logan Square,2008,2,12.282638959230178
-Logan Square,2009,0,0
-Logan Square,2010,1,6.141319479615089
-Logan Square,2011,1,6.141319479615089
-Logan Square,2012,2,12.282638959230178
-Logan Square,2013,1,6.141319479615089
-Logan Square,2014,2,12.282638959230178
-Logan Square,2015,5,30.70659739807545
-Logan Square,2016,6,36.84791687769054
-Logan Square,2017,3,18.42395843884527
-Logan Square,2018,2,12.282638959230178
-Logan Square,2019,1,6.141319479615089
-Logan Square,2020,4,24.565277918460357
-Logan Square,2021,3,18.42395843884527
-Magnolia Glen,2006,3,48.02118923733144
-Magnolia Glen,2007,0,0
-Magnolia Glen,2008,0,0
-Magnolia Glen,2009,0,0
-Magnolia Glen,2010,0,0
-Magnolia Glen,2011,0,0
-Magnolia Glen,2012,0,0
-Magnolia Glen,2013,0,0
-Magnolia Glen,2014,0,0
-Magnolia Glen,2015,1,16.00706307911048
-Magnolia Glen,2016,1,16.00706307911048
-Magnolia Glen,2017,0,0
-Magnolia Glen,2018,0,0
-Magnolia Glen,2019,0,0
-Magnolia Glen,2020,0,0
-Magnolia Glen,2021,0,0
-Margate Park,2006,0,0
-Margate Park,2007,0,0
-Margate Park,2008,0,0
-Margate Park,2009,1,13.298673281918733
-Margate Park,2010,0,0
-Margate Park,2011,0,0
-Margate Park,2012,0,0
-Margate Park,2013,0,0
-Margate Park,2014,0,0
-Margate Park,2015,0,0
-Margate Park,2016,0,0
-Margate Park,2017,0,0
-Margate Park,2018,0,0
-Margate Park,2019,0,0
-Margate Park,2020,0,0
-Margate Park,2021,0,0
-Marquette Park,2006,0,0
-Marquette Park,2007,0,0
-Marquette Park,2008,0,0
-Marquette Park,2009,0,0
-Marquette Park,2010,0,0
-Marquette Park,2011,0,0
-Marquette Park,2012,0,0
-Marquette Park,2013,0,0
-Marquette Park,2014,0,0
-Marquette Park,2015,0,0
-Marquette Park,2016,1,26.380253773700613
-Marquette Park,2017,0,0
-Marquette Park,2018,1,26.380253773700613
-Marquette Park,2019,0,0
-Marquette Park,2020,0,0
-Marquette Park,2021,0,0
-Mayfair,2006,0,0
-Mayfair,2007,0,0
-Mayfair,2008,0,0
-Mayfair,2009,0,0
-Mayfair,2010,0,0
-Mayfair,2011,1,84.98810286128662
-Mayfair,2012,0,0
-Mayfair,2013,0,0
-Mayfair,2014,0,0
-Mayfair,2015,0,0
-Mayfair,2016,0,0
-Mayfair,2017,1,84.98810286128662
-Mayfair,2018,0,0
-Mayfair,2019,0,0
-Mayfair,2020,0,0
-Mayfair,2021,1,84.98810286128662
-McKinley Park,2006,3,28.492254286245885
-McKinley Park,2007,2,18.99483619083059
-McKinley Park,2008,0,0
-McKinley Park,2009,0,0
-McKinley Park,2010,1,9.497418095415295
-McKinley Park,2011,1,9.497418095415295
-McKinley Park,2012,0,0
-McKinley Park,2013,1,9.497418095415295
-McKinley Park,2014,2,18.99483619083059
-McKinley Park,2015,0,0
-McKinley Park,2016,0,0
-McKinley Park,2017,3,28.492254286245885
-McKinley Park,2018,0,0
-McKinley Park,2019,0,0
-McKinley Park,2020,0,0
-McKinley Park,2021,0,0
-Montclare,2006,3,81.59931247888635
-Montclare,2007,0,0
-Montclare,2008,1,27.19977082629545
-Montclare,2009,1,27.19977082629545
-Montclare,2010,0,0
-Montclare,2011,0,0
-Montclare,2012,0,0
-Montclare,2013,0,0
-Montclare,2014,0,0
-Montclare,2015,1,27.19977082629545
-Montclare,2016,2,54.3995416525909
-Montclare,2017,0,0
-Montclare,2018,1,27.19977082629545
-Montclare,2019,0,0
-Montclare,2020,0,0
-Montclare,2021,0,0
-Morgan Park,2006,0,0
-Morgan Park,2007,0,0
-Morgan Park,2008,0,0
-Morgan Park,2009,0,0
-Morgan Park,2010,0,0
-Morgan Park,2011,0,0
-Morgan Park,2012,0,0
-Morgan Park,2013,0,0
-Morgan Park,2014,0,0
-Morgan Park,2015,0,0
-Morgan Park,2016,0,0
-Morgan Park,2017,0,0
-Morgan Park,2018,0,0
-Morgan Park,2019,0,0
-Morgan Park,2020,0,0
-Morgan Park,2021,2,21.792240243607043
-Mount Greenwood,2006,0,0
-Mount Greenwood,2007,0,0
-Mount Greenwood,2008,0,0
-Mount Greenwood,2009,0,0
-Mount Greenwood,2010,0,0
-Mount Greenwood,2011,0,0
-Mount Greenwood,2012,0,0
-Mount Greenwood,2013,0,0
-Mount Greenwood,2014,0,0
-Mount Greenwood,2015,0,0
-Mount Greenwood,2016,0,0
-Mount Greenwood,2017,0,0
-Mount Greenwood,2018,0,0
-Mount Greenwood,2019,0,0
-Mount Greenwood,2020,0,0
-Mount Greenwood,2021,1,37.71933601830334
-Near North,2006,0,0
-Near North,2007,0,0
-Near North,2008,1,31.332595986853082
-Near North,2009,0,0
-Near North,2010,3,93.99778796055925
-Near North,2011,0,0
-Near North,2012,0,0
-Near North,2013,0,0
-Near North,2014,0,0
-Near North,2015,0,0
-Near North,2016,0,0
-Near North,2017,0,0
-Near North,2018,0,0
-Near North,2019,0,0
-Near North,2020,0,0
-Near North,2021,0,0
-Near West Side,2006,5,13.707388536602984
-Near West Side,2007,8,21.931821658564775
-Near West Side,2008,5,13.707388536602984
-Near West Side,2009,4,10.965910829282388
-Near West Side,2010,5,13.707388536602984
-Near West Side,2011,7,19.190343951244177
-Near West Side,2012,1,2.741477707320597
-Near West Side,2013,3,8.22443312196179
-Near West Side,2014,4,10.965910829282388
-Near West Side,2015,2,5.482955414641194
-Near West Side,2016,3,8.22443312196179
-Near West Side,2017,4,10.965910829282388
-Near West Side,2018,3,8.22443312196179
-Near West Side,2019,3,8.22443312196179
-Near West Side,2020,3,8.22443312196179
-Near West Side,2021,1,2.741477707320597
-Noble Square,2006,11,89.26468853634626
-Noble Square,2007,7,56.804801795856704
-Noble Square,2008,11,89.26468853634626
-Noble Square,2009,1,8.114971685122386
-Noble Square,2010,2,16.229943370244772
-Noble Square,2011,1,8.114971685122386
-Noble Square,2012,3,24.34491505536716
-Noble Square,2013,5,40.57485842561193
-Noble Square,2014,5,40.57485842561193
-Noble Square,2015,2,16.229943370244772
-Noble Square,2016,8,64.91977348097909
-Noble Square,2017,5,40.57485842561193
-Noble Square,2018,6,48.68983011073432
-Noble Square,2019,2,16.229943370244772
-Noble Square,2020,3,24.34491505536716
-Noble Square,2021,5,40.57485842561193
-North Austin,2006,0,0
-North Austin,2007,0,0
-North Austin,2008,0,0
-North Austin,2009,0,0
-North Austin,2010,1,182.66762517472577
-North Austin,2011,0,0
-North Austin,2012,0,0
-North Austin,2013,0,0
-North Austin,2014,0,0
-North Austin,2015,0,0
-North Austin,2016,0,0
-North Austin,2017,0,0
-North Austin,2018,0,0
-North Austin,2019,0,0
-North Austin,2020,0,0
-North Austin,2021,0,0
-North Center,2006,2,80.13352458668442
-North Center,2007,1,40.06676229334221
-North Center,2008,0,0
-North Center,2009,1,40.06676229334221
-North Center,2010,0,0
-North Center,2011,0,0
-North Center,2012,0,0
-North Center,2013,0,0
-North Center,2014,1,40.06676229334221
-North Center,2015,1,40.06676229334221
-North Center,2016,0,0
-North Center,2017,6,240.40057376005328
-North Center,2018,0,0
-North Center,2019,0,0
-North Center,2020,0,0
-North Center,2021,1,40.06676229334221
-North Kenwood,2006,2,10.23247030363403
-North Kenwood,2007,2,10.23247030363403
-North Kenwood,2008,0,0
-North Kenwood,2009,2,10.23247030363403
-North Kenwood,2010,0,0
-North Kenwood,2011,0,0
-North Kenwood,2012,1,5.116235151817015
-North Kenwood,2013,0,0
-North Kenwood,2014,1,5.116235151817015
-North Kenwood,2015,0,0
-North Kenwood,2016,1,5.116235151817015
-North Kenwood,2017,0,0
-North Kenwood,2018,0,0
-North Kenwood,2019,1,5.116235151817015
-North Kenwood,2020,0,0
-North Kenwood,2021,0,0
-North Park,2006,1,31.653243319814088
-North Park,2007,1,31.653243319814088
-North Park,2008,0,0
-North Park,2009,0,0
-North Park,2010,0,0
-North Park,2011,0,0
-North Park,2012,0,0
-North Park,2013,0,0
-North Park,2014,0,0
-North Park,2015,0,0
-North Park,2016,0,0
-North Park,2017,0,0
-North Park,2018,0,0
-North Park,2019,0,0
-North Park,2020,0,0
-North Park,2021,0,0
-O'Hare,2006,0,0
-O'Hare,2007,0,0
-O'Hare,2008,1,5.2133274344139675
-O'Hare,2009,0,0
-O'Hare,2010,0,0
-O'Hare,2011,0,0
-O'Hare,2012,0,0
-O'Hare,2013,1,5.2133274344139675
-O'Hare,2014,0,0
-O'Hare,2015,0,0
-O'Hare,2016,0,0
-O'Hare,2017,0,0
-O'Hare,2018,0,0
-O'Hare,2019,0,0
-O'Hare,2020,0,0
-O'Hare,2021,0,0
-Oakland,2006,1,6.821985616340262
-Oakland,2007,2,13.643971232680524
-Oakland,2008,7,47.75389931438183
-Oakland,2009,2,13.643971232680524
-Oakland,2010,0,0
-Oakland,2011,2,13.643971232680524
-Oakland,2012,2,13.643971232680524
-Oakland,2013,0,0
-Oakland,2014,3,20.465956849020785
-Oakland,2015,1,6.821985616340262
-Oakland,2016,0,0
-Oakland,2017,0,0
-Oakland,2018,0,0
-Oakland,2019,2,13.643971232680524
-Oakland,2020,1,6.821985616340262
-Oakland,2021,0,0
-Old Irving Park,2006,0,0
-Old Irving Park,2007,0,0
-Old Irving Park,2008,0,0
-Old Irving Park,2009,0,0
-Old Irving Park,2010,0,0
-Old Irving Park,2011,0,0
-Old Irving Park,2012,0,0
-Old Irving Park,2013,0,0
-Old Irving Park,2014,0,0
-Old Irving Park,2015,0,0
-Old Irving Park,2016,0,0
-Old Irving Park,2017,0,0
-Old Irving Park,2018,0,0
-Old Irving Park,2019,0,0
-Old Irving Park,2020,3,43.199625083649536
-Old Irving Park,2021,1,14.399875027883178
-Old Town,2006,3,26.2714379368033
-Old Town,2007,3,26.2714379368033
-Old Town,2008,2,17.514291957868867
-Old Town,2009,1,8.757145978934433
-Old Town,2010,2,17.514291957868867
-Old Town,2011,0,0
-Old Town,2012,2,17.514291957868867
-Old Town,2013,1,8.757145978934433
-Old Town,2014,1,8.757145978934433
-Old Town,2015,3,26.2714379368033
-Old Town,2016,9,78.8143138104099
-Old Town,2017,3,26.2714379368033
-Old Town,2018,5,43.785729894672166
-Old Town,2019,3,26.2714379368033
-Old Town,2020,5,43.785729894672166
-Old Town,2021,3,26.2714379368033
-Old Town Triangle,2006,6,46.82497927906986
-Old Town Triangle,2007,2,15.60832642635662
-Old Town Triangle,2008,0,0
-Old Town Triangle,2009,3,23.41248963953493
-Old Town Triangle,2010,2,15.60832642635662
-Old Town Triangle,2011,0,0
-Old Town Triangle,2012,1,7.80416321317831
-Old Town Triangle,2013,3,23.41248963953493
-Old Town Triangle,2014,2,15.60832642635662
-Old Town Triangle,2015,5,39.020816065891545
-Old Town Triangle,2016,4,31.21665285271324
-Old Town Triangle,2017,7,54.629142492248164
-Old Town Triangle,2018,0,0
-Old Town Triangle,2019,4,31.21665285271324
-Old Town Triangle,2020,1,7.80416321317831
-Old Town Triangle,2021,2,15.60832642635662
-Palmer Square,2006,8,60.19305934180335
-Palmer Square,2007,0,0
-Palmer Square,2008,1,7.5241324177254185
-Palmer Square,2009,0,0
-Palmer Square,2010,1,7.5241324177254185
-Palmer Square,2011,0,0
-Palmer Square,2012,4,30.096529670901674
-Palmer Square,2013,1,7.5241324177254185
-Palmer Square,2014,5,37.62066208862709
-Palmer Square,2015,6,45.14479450635251
-Palmer Square,2016,4,30.096529670901674
-Palmer Square,2017,11,82.7654565949796
-Palmer Square,2018,7,52.66892692407793
-Palmer Square,2019,1,7.5241324177254185
-Palmer Square,2020,3,22.572397253176256
-Palmer Square,2021,2,15.048264835450837
-Park West,2006,8,62.07609475299947
-Park West,2007,7,54.31658290887453
-Park West,2008,1,7.759511844124933
-Park West,2009,4,31.038047376499733
-Park West,2010,1,7.759511844124933
-Park West,2011,1,7.759511844124933
-Park West,2012,2,15.519023688249867
-Park West,2013,6,46.5570710647496
-Park West,2014,4,31.038047376499733
-Park West,2015,4,31.038047376499733
-Park West,2016,3,23.2785355323748
-Park West,2017,2,15.519023688249867
-Park West,2018,1,7.759511844124933
-Park West,2019,4,31.038047376499733
-Park West,2020,1,7.759511844124933
-Park West,2021,2,15.519023688249867
-Parkview,2006,0,0
-Parkview,2007,0,0
-Parkview,2008,0,0
-Parkview,2009,0,0
-Parkview,2010,0,0
-Parkview,2011,0,0
-Parkview,2012,0,0
-Parkview,2013,0,0
-Parkview,2014,0,0
-Parkview,2015,0,0
-Parkview,2016,0,0
-Parkview,2017,0,0
-Parkview,2018,0,0
-Parkview,2019,1,123.72524213886103
-Parkview,2020,0,0
-Parkview,2021,0,0
-Peterson Park,2006,0,0
-Peterson Park,2007,1,351.3644885951359
-Peterson Park,2008,0,0
-Peterson Park,2009,0,0
-Peterson Park,2010,0,0
-Peterson Park,2011,0,0
-Peterson Park,2012,0,0
-Peterson Park,2013,0,0
-Peterson Park,2014,0,0
-Peterson Park,2015,0,0
-Peterson Park,2016,0,0
-Peterson Park,2017,0,0
-Peterson Park,2018,0,0
-Peterson Park,2019,0,0
-Peterson Park,2020,0,0
-Peterson Park,2021,0,0
-pilsen,2006,9,20.749919367323333
-pilsen,2007,4,9.222186385477038
-pilsen,2008,4,9.222186385477038
-pilsen,2009,6,13.833279578215555
-pilsen,2010,6,13.833279578215555
-pilsen,2011,6,13.833279578215555
-pilsen,2012,4,9.222186385477038
-pilsen,2013,2,4.611093192738519
-pilsen,2014,5,11.527732981846295
-pilsen,2015,4,9.222186385477038
-pilsen,2016,8,18.444372770954075
-pilsen,2017,11,25.36101256006185
-pilsen,2018,6,13.833279578215555
-pilsen,2019,10,23.05546596369259
-pilsen,2020,8,18.444372770954075
-pilsen,2021,2,4.611093192738519
-Portage Park,2006,0,0
-Portage Park,2007,1,22.68368199280594
-Portage Park,2008,0,0
-Portage Park,2009,1,22.68368199280594
-Portage Park,2010,0,0
-Portage Park,2011,1,22.68368199280594
-Portage Park,2012,0,0
-Portage Park,2013,0,0
-Portage Park,2014,0,0
-Portage Park,2015,0,0
-Portage Park,2016,3,68.05104597841782
-Portage Park,2017,0,0
-Portage Park,2018,0,0
-Portage Park,2019,2,45.36736398561188
-Portage Park,2020,0,0
-Portage Park,2021,0,0
-Ranch Triangle,2006,8,84.17944663668055
-Ranch Triangle,2007,12,126.26916995502083
-Ranch Triangle,2008,3,31.567292488755207
-Ranch Triangle,2009,2,21.044861659170138
-Ranch Triangle,2010,3,31.567292488755207
-Ranch Triangle,2011,4,42.089723318340276
-Ranch Triangle,2012,5,52.612154147925345
-Ranch Triangle,2013,7,73.65701580709549
-Ranch Triangle,2014,4,42.089723318340276
-Ranch Triangle,2015,2,21.044861659170138
-Ranch Triangle,2016,4,42.089723318340276
-Ranch Triangle,2017,4,42.089723318340276
-Ranch Triangle,2018,7,73.65701580709549
-Ranch Triangle,2019,7,73.65701580709549
-Ranch Triangle,2020,3,31.567292488755207
-Ranch Triangle,2021,3,31.567292488755207
-Ravenswood,2006,4,62.450458712658325
-Ravenswood,2007,4,62.450458712658325
-Ravenswood,2008,1,15.612614678164581
-Ravenswood,2009,1,15.612614678164581
-Ravenswood,2010,1,15.612614678164581
-Ravenswood,2011,0,0
-Ravenswood,2012,1,15.612614678164581
-Ravenswood,2013,1,15.612614678164581
-Ravenswood,2014,1,15.612614678164581
-Ravenswood,2015,2,31.225229356329162
-Ravenswood,2016,0,0
-Ravenswood,2017,3,46.83784403449374
-Ravenswood,2018,0,0
-Ravenswood,2019,3,46.83784403449374
-Ravenswood,2020,0,0
-Ravenswood,2021,3,46.83784403449374
-Rogers Park,2006,13,17.76070850827506
-Rogers Park,2007,4,5.464833387161557
-Rogers Park,2008,2,2.7324166935807783
-Rogers Park,2009,2,2.7324166935807783
-Rogers Park,2010,1,1.3662083467903892
-Rogers Park,2011,4,5.464833387161557
-Rogers Park,2012,0,0
-Rogers Park,2013,1,1.3662083467903892
-Rogers Park,2014,0,0
-Rogers Park,2015,0,0
-Rogers Park,2016,1,1.3662083467903892
-Rogers Park,2017,1,1.3662083467903892
-Rogers Park,2018,2,2.7324166935807783
-Rogers Park,2019,2,2.7324166935807783
-Rogers Park,2020,0,0
-Rogers Park,2021,1,1.3662083467903892
-Roscoe Village,2006,4,159.8881849470469
-Roscoe Village,2007,1,39.97204623676173
-Roscoe Village,2008,3,119.91613871028518
-Roscoe Village,2009,0,0
-Roscoe Village,2010,0,0
-Roscoe Village,2011,0,0
-Roscoe Village,2012,0,0
-Roscoe Village,2013,0,0
-Roscoe Village,2014,3,119.91613871028518
-Roscoe Village,2015,2,79.94409247352345
-Roscoe Village,2016,1,39.97204623676173
-Roscoe Village,2017,2,79.94409247352345
-Roscoe Village,2018,2,79.94409247352345
-Roscoe Village,2019,1,39.97204623676173
-Roscoe Village,2020,0,0
-Roscoe Village,2021,2,79.94409247352345
-Roseland,2006,0,0
-Roseland,2007,1,4.106323106822798
-Roseland,2008,1,4.106323106822798
-Roseland,2009,3,12.318969320468394
-Roseland,2010,1,4.106323106822798
-Roseland,2011,1,4.106323106822798
-Roseland,2012,2,8.212646213645597
-Roseland,2013,1,4.106323106822798
-Roseland,2014,2,8.212646213645597
-Roseland,2015,0,0
-Roseland,2016,1,4.106323106822798
-Roseland,2017,1,4.106323106822798
-Roseland,2018,1,4.106323106822798
-Roseland,2019,2,8.212646213645597
-Roseland,2020,1,4.106323106822798
-Roseland,2021,2,8.212646213645597
-Schorsch Village,2006,0,0
-Schorsch Village,2007,2,124.14926777177152
-Schorsch Village,2008,0,0
-Schorsch Village,2009,0,0
-Schorsch Village,2010,0,0
-Schorsch Village,2011,0,0
-Schorsch Village,2012,0,0
-Schorsch Village,2013,0,0
-Schorsch Village,2014,0,0
-Schorsch Village,2015,0,0
-Schorsch Village,2016,0,0
-Schorsch Village,2017,0,0
-Schorsch Village,2018,0,0
-Schorsch Village,2019,0,0
-Schorsch Village,2020,0,0
-Schorsch Village,2021,0,0
-Sheffield Neighbors,2006,10,46.47371146116754
-Sheffield Neighbors,2007,10,46.47371146116754
-Sheffield Neighbors,2008,7,32.53159802281728
-Sheffield Neighbors,2009,4,18.589484584467016
-Sheffield Neighbors,2010,6,27.884226876700524
-Sheffield Neighbors,2011,8,37.17896916893403
-Sheffield Neighbors,2012,6,27.884226876700524
-Sheffield Neighbors,2013,10,46.47371146116754
-Sheffield Neighbors,2014,15,69.71056719175131
-Sheffield Neighbors,2015,15,69.71056719175131
-Sheffield Neighbors,2016,16,74.35793833786806
-Sheffield Neighbors,2017,11,51.12108260728429
-Sheffield Neighbors,2018,8,37.17896916893403
-Sheffield Neighbors,2019,3,13.942113438350262
-Sheffield Neighbors,2020,7,32.53159802281728
-Sheffield Neighbors,2021,11,51.12108260728429
-Sheridan Park,2006,2,17.758573403889706
-Sheridan Park,2007,0,0
-Sheridan Park,2008,1,8.879286701944853
-Sheridan Park,2009,0,0
-Sheridan Park,2010,0,0
-Sheridan Park,2011,0,0
-Sheridan Park,2012,0,0
-Sheridan Park,2013,0,0
-Sheridan Park,2014,0,0
-Sheridan Park,2015,0,0
-Sheridan Park,2016,0,0
-Sheridan Park,2017,0,0
-Sheridan Park,2018,0,0
-Sheridan Park,2019,0,0
-Sheridan Park,2020,0,0
-Sheridan Park,2021,0,0
-South Austin,2006,1,1.5826498302781289
-South Austin,2007,3,4.747949490834387
-South Austin,2008,3,4.747949490834387
-South Austin,2009,3,4.747949490834387
-South Austin,2010,2,3.1652996605562578
-South Austin,2011,3,4.747949490834387
-South Austin,2012,9,14.24384847250316
-South Austin,2013,5,7.9132491513906444
-South Austin,2014,1,1.5826498302781289
-South Austin,2015,5,7.9132491513906444
-South Austin,2016,0,0
-South Austin,2017,7,11.078548811946902
-South Austin,2018,6,9.495898981668773
-South Austin,2019,1,1.5826498302781289
-South Austin,2020,3,4.747949490834387
-South Austin,2021,2,3.1652996605562578
-South Chicago,2006,2,5.362242759917439
-South Chicago,2007,0,0
-South Chicago,2008,2,5.362242759917439
-South Chicago,2009,1,2.6811213799587197
-South Chicago,2010,1,2.6811213799587197
-South Chicago,2011,0,0
-South Chicago,2012,4,10.724485519834879
-South Chicago,2013,3,8.043364139876159
-South Chicago,2014,2,5.362242759917439
-South Chicago,2015,5,13.405606899793598
-South Chicago,2016,2,5.362242759917439
-South Chicago,2017,7,18.767849659711036
-South Chicago,2018,3,8.043364139876159
-South Chicago,2019,2,5.362242759917439
-South Chicago,2020,4,10.724485519834879
-South Chicago,2021,4,10.724485519834879
-South East Ravenswood,2006,1,38.48562904938089
-South East Ravenswood,2007,0,0
-South East Ravenswood,2008,0,0
-South East Ravenswood,2009,0,0
-South East Ravenswood,2010,0,0
-South East Ravenswood,2011,0,0
-South East Ravenswood,2012,0,0
-South East Ravenswood,2013,0,0
-South East Ravenswood,2014,0,0
-South East Ravenswood,2015,0,0
-South East Ravenswood,2016,1,38.48562904938089
-South East Ravenswood,2017,0,0
-South East Ravenswood,2018,1,38.48562904938089
-South East Ravenswood,2019,0,0
-South East Ravenswood,2020,0,0
-South East Ravenswood,2021,0,0
-South Shore,2006,2,1.7722030842301086
-South Shore,2007,7,6.20271079480538
-South Shore,2008,2,1.7722030842301086
-South Shore,2009,6,5.316609252690326
-South Shore,2010,8,7.0888123369204346
-South Shore,2011,6,5.316609252690326
-South Shore,2012,6,5.316609252690326
-South Shore,2013,5,4.430507710575272
-South Shore,2014,6,5.316609252690326
-South Shore,2015,1,0.8861015421150543
-South Shore,2016,5,4.430507710575272
-South Shore,2017,5,4.430507710575272
-South Shore,2018,5,4.430507710575272
-South Shore,2019,6,5.316609252690326
-South Shore,2020,6,5.316609252690326
-South Shore,2021,3,2.658304626345163
-Tally's Corner,2006,0,0
-Tally's Corner,2007,0,0
-Tally's Corner,2008,0,0
-Tally's Corner,2009,0,0
-Tally's Corner,2010,0,0
-Tally's Corner,2011,0,0
-Tally's Corner,2012,0,0
-Tally's Corner,2013,0,0
-Tally's Corner,2014,0,0
-Tally's Corner,2015,0,0
-Tally's Corner,2016,0,0
-Tally's Corner,2017,0,0
-Tally's Corner,2018,0,0
-Tally's Corner,2019,1,5.550962771983585
-Tally's Corner,2020,0,0
-Tally's Corner,2021,0,0
-The Bush,2006,0,0
-The Bush,2007,1,14.302503868412733
-The Bush,2008,1,14.302503868412733
-The Bush,2009,1,14.302503868412733
-The Bush,2010,0,0
-The Bush,2011,4,57.210015473650934
-The Bush,2012,8,114.42003094730187
-The Bush,2013,0,0
-The Bush,2014,3,42.9075116052382
-The Bush,2015,0,0
-The Bush,2016,1,14.302503868412733
-The Bush,2017,3,42.9075116052382
-The Bush,2018,1,14.302503868412733
-The Bush,2019,2,28.605007736825467
-The Bush,2020,1,14.302503868412733
-The Bush,2021,0,0
-The Gap,2006,0,0
-The Gap,2007,0,0
-The Gap,2008,0,0
-The Gap,2009,0,0
-The Gap,2010,0,0
-The Gap,2011,0,0
-The Gap,2012,2,58.967708795834746
-The Gap,2013,0,0
-The Gap,2014,0,0
-The Gap,2015,0,0
-The Gap,2016,0,0
-The Gap,2017,0,0
-The Gap,2018,0,0
-The Gap,2019,0,0
-The Gap,2020,0,0
-The Gap,2021,0,0
-The Robert Taylor Homes,2006,1,9.883952601237292
-The Robert Taylor Homes,2007,0,0
-The Robert Taylor Homes,2008,0,0
-The Robert Taylor Homes,2009,0,0
-The Robert Taylor Homes,2010,0,0
-The Robert Taylor Homes,2011,0,0
-The Robert Taylor Homes,2012,0,0
-The Robert Taylor Homes,2013,0,0
-The Robert Taylor Homes,2014,0,0
-The Robert Taylor Homes,2015,0,0
-The Robert Taylor Homes,2016,0,0
-The Robert Taylor Homes,2017,0,0
-The Robert Taylor Homes,2018,1,9.883952601237292
-The Robert Taylor Homes,2019,0,0
-The Robert Taylor Homes,2020,0,0
-The Robert Taylor Homes,2021,0,0
-Ukrainian Village,2006,4,23.765528258734804
-Ukrainian Village,2007,2,11.882764129367402
-Ukrainian Village,2008,5,29.706910323418505
-Ukrainian Village,2009,0,0
-Ukrainian Village,2010,1,5.941382064683701
-Ukrainian Village,2011,5,29.706910323418505
-Ukrainian Village,2012,2,11.882764129367402
-Ukrainian Village,2013,5,29.706910323418505
-Ukrainian Village,2014,4,23.765528258734804
-Ukrainian Village,2015,7,41.58967445278591
-Ukrainian Village,2016,8,47.53105651746961
-Ukrainian Village,2017,3,17.824146194051103
-Ukrainian Village,2018,3,17.824146194051103
-Ukrainian Village,2019,5,29.706910323418505
-Ukrainian Village,2020,3,17.824146194051103
-Ukrainian Village,2021,1,5.941382064683701
-University Village / Little Italy,2006,2,8.457457043324263
-University Village / Little Italy,2007,2,8.457457043324263
-University Village / Little Italy,2008,7,29.601099651634925
-University Village / Little Italy,2009,1,4.2287285216621315
-University Village / Little Italy,2010,1,4.2287285216621315
-University Village / Little Italy,2011,1,4.2287285216621315
-University Village / Little Italy,2012,0,0
-University Village / Little Italy,2013,0,0
-University Village / Little Italy,2014,2,8.457457043324263
-University Village / Little Italy,2015,6,25.37237112997279
-University Village / Little Italy,2016,3,12.686185564986395
-University Village / Little Italy,2017,1,4.2287285216621315
-University Village / Little Italy,2018,1,4.2287285216621315
-University Village / Little Italy,2019,6,25.37237112997279
-University Village / Little Italy,2020,2,8.457457043324263
-University Village / Little Italy,2021,8,33.82982817329705
-Uptown,2006,5,15.110524476710872
-Uptown,2007,3,9.066314686026523
-Uptown,2008,2,6.044209790684349
-Uptown,2009,3,9.066314686026523
-Uptown,2010,2,6.044209790684349
-Uptown,2011,1,3.0221048953421743
-Uptown,2012,2,6.044209790684349
-Uptown,2013,2,6.044209790684349
-Uptown,2014,1,3.0221048953421743
-Uptown,2015,1,3.0221048953421743
-Uptown,2016,1,3.0221048953421743
-Uptown,2017,6,18.132629372053046
-Uptown,2018,3,9.066314686026523
-Uptown,2019,1,3.0221048953421743
-Uptown,2020,0,0
-Uptown,2021,3,9.066314686026523
-Washington Park,2006,3,5.3967644356642595
-Washington Park,2007,3,5.3967644356642595
-Washington Park,2008,3,5.3967644356642595
-Washington Park,2009,3,5.3967644356642595
-Washington Park,2010,3,5.3967644356642595
-Washington Park,2011,7,12.59245034988327
-Washington Park,2012,7,12.59245034988327
-Washington Park,2013,1,1.798921478554753
-Washington Park,2014,5,8.994607392773766
-Washington Park,2015,2,3.597842957109506
-Washington Park,2016,1,1.798921478554753
-Washington Park,2017,3,5.3967644356642595
-Washington Park,2018,3,5.3967644356642595
-Washington Park,2019,5,8.994607392773766
-Washington Park,2020,3,5.3967644356642595
-Washington Park,2021,3,5.3967644356642595
-Wentworth Gardens,2006,6,155.8726124543176
-Wentworth Gardens,2007,0,0
-Wentworth Gardens,2008,1,25.97876874238627
-Wentworth Gardens,2009,0,0
-Wentworth Gardens,2010,0,0
-Wentworth Gardens,2011,0,0
-Wentworth Gardens,2012,0,0
-Wentworth Gardens,2013,0,0
-Wentworth Gardens,2014,0,0
-Wentworth Gardens,2015,0,0
-Wentworth Gardens,2016,0,0
-Wentworth Gardens,2017,0,0
-Wentworth Gardens,2018,0,0
-Wentworth Gardens,2019,0,0
-Wentworth Gardens,2020,0,0
-Wentworth Gardens,2021,0,0
-West De Paul,2006,5,95.21232626133266
-West De Paul,2007,2,38.08493050453306
-West De Paul,2008,4,76.16986100906612
-West De Paul,2009,3,57.127395756799594
-West De Paul,2010,0,0
-West De Paul,2011,1,19.04246525226653
-West De Paul,2012,2,38.08493050453306
-West De Paul,2013,0,0
-West De Paul,2014,2,38.08493050453306
-West De Paul,2015,4,76.16986100906612
-West De Paul,2016,5,95.21232626133266
-West De Paul,2017,1,19.04246525226653
-West De Paul,2018,2,38.08493050453306
-West De Paul,2019,5,95.21232626133266
-West De Paul,2020,0,0
-West De Paul,2021,1,19.04246525226653
-West Elsdon,2006,1,87.61805811084254
-West Elsdon,2007,0,0
-West Elsdon,2008,0,0
-West Elsdon,2009,0,0
-West Elsdon,2010,0,0
-West Elsdon,2011,0,0
-West Elsdon,2012,0,0
-West Elsdon,2013,0,0
-West Elsdon,2014,0,0
-West Elsdon,2015,0,0
-West Elsdon,2016,0,0
-West Elsdon,2017,0,0
-West Elsdon,2018,0,0
-West Elsdon,2019,0,0
-West Elsdon,2020,0,0
-West Elsdon,2021,0,0
-West Englewood,2006,0,0
-West Englewood,2007,0,0
-West Englewood,2008,0,0
-West Englewood,2009,1,12.468692258869186
-West Englewood,2010,1,12.468692258869186
-West Englewood,2011,0,0
-West Englewood,2012,1,12.468692258869186
-West Englewood,2013,0,0
-West Englewood,2014,0,0
-West Englewood,2015,0,0
-West Englewood,2016,1,12.468692258869186
-West Englewood,2017,1,12.468692258869186
-West Englewood,2018,1,12.468692258869186
-West Englewood,2019,1,12.468692258869186
-West Englewood,2020,0,0
-West Englewood,2021,1,12.468692258869186
-West Garfield Park,2006,2,4.000125623889869
-West Garfield Park,2007,5,10.000314059724673
-West Garfield Park,2008,6,12.000376871669607
-West Garfield Park,2009,8,16.000502495559477
-West Garfield Park,2010,14,28.000879367229086
-West Garfield Park,2011,11,22.00069093139428
-West Garfield Park,2012,11,22.00069093139428
-West Garfield Park,2013,10,20.000628119449345
-West Garfield Park,2014,8,16.000502495559477
-West Garfield Park,2015,13,26.00081655528415
-West Garfield Park,2016,17,34.00106780306389
-West Garfield Park,2017,10,20.000628119449345
-West Garfield Park,2018,17,34.00106780306389
-West Garfield Park,2019,12,24.000753743339214
-West Garfield Park,2020,3,6.000188435834803
-West Garfield Park,2021,8,16.000502495559477
-West Pullman,2006,0,0
-West Pullman,2007,0,0
-West Pullman,2008,0,0
-West Pullman,2009,0,0
-West Pullman,2010,0,0
-West Pullman,2011,0,0
-West Pullman,2012,0,0
-West Pullman,2013,0,0
-West Pullman,2014,1,13.575805138728045
-West Pullman,2015,0,0
-West Pullman,2016,0,0
-West Pullman,2017,1,13.575805138728045
-West Pullman,2018,0,0
-West Pullman,2019,0,0
-West Pullman,2020,0,0
-West Pullman,2021,0,0
-West Rogers Park,2006,18,22.73329565394173
-West Rogers Park,2007,7,8.840726087644006
-West Rogers Park,2008,6,7.577765217980577
-West Rogers Park,2009,3,3.7888826089902885
-West Rogers Park,2010,3,3.7888826089902885
-West Rogers Park,2011,6,7.577765217980577
-West Rogers Park,2012,0,0
-West Rogers Park,2013,4,5.051843478653718
-West Rogers Park,2014,2,2.525921739326859
-West Rogers Park,2015,2,2.525921739326859
-West Rogers Park,2016,1,1.2629608696634296
-West Rogers Park,2017,1,1.2629608696634296
-West Rogers Park,2018,0,0
-West Rogers Park,2019,0,0
-West Rogers Park,2020,0,0
-West Rogers Park,2021,0,0
-West Town,2006,7,46.95424021778563
-West Town,2007,7,46.95424021778563
-West Town,2008,4,26.83099441016322
-West Town,2009,4,26.83099441016322
-West Town,2010,3,20.123245807622414
-West Town,2011,1,6.707748602540805
-West Town,2012,5,33.538743012704025
-West Town,2013,8,53.66198882032644
-West Town,2014,5,33.538743012704025
-West Town,2015,6,40.24649161524483
-West Town,2016,11,73.78523462794885
-West Town,2017,8,53.66198882032644
-West Town,2018,6,40.24649161524483
-West Town,2019,8,53.66198882032644
-West Town,2020,1,6.707748602540805
-West Town,2021,7,46.95424021778563
-West Woodlawn,2006,2,5.9212204491651885
-West Woodlawn,2007,4,11.842440898330377
-West Woodlawn,2008,3,8.881830673747784
-West Woodlawn,2009,2,5.9212204491651885
-West Woodlawn,2010,2,5.9212204491651885
-West Woodlawn,2011,4,11.842440898330377
-West Woodlawn,2012,3,8.881830673747784
-West Woodlawn,2013,6,17.763661347495567
-West Woodlawn,2014,5,14.803051122912972
-West Woodlawn,2015,6,17.763661347495567
-West Woodlawn,2016,6,17.763661347495567
-West Woodlawn,2017,10,29.606102245825944
-West Woodlawn,2018,7,20.724271572078163
-West Woodlawn,2019,5,14.803051122912972
-West Woodlawn,2020,2,5.9212204491651885
-West Woodlawn,2021,3,8.881830673747784
-Wicker Park,2006,18,75.62691076099564
-Wicker Park,2007,20,84.02990084555071
-Wicker Park,2008,5,21.00747521138768
-Wicker Park,2009,3,12.604485126832605
-Wicker Park,2010,2,8.402990084555071
-Wicker Park,2011,5,21.00747521138768
-Wicker Park,2012,4,16.805980169110143
-Wicker Park,2013,3,12.604485126832605
-Wicker Park,2014,7,29.410465295942746
-Wicker Park,2015,5,21.00747521138768
-Wicker Park,2016,9,37.81345538049782
-Wicker Park,2017,8,33.611960338220285
-Wicker Park,2018,6,25.20897025366521
-Wicker Park,2019,7,29.410465295942746
-Wicker Park,2020,3,12.604485126832605
-Wicker Park,2021,4,16.805980169110143
-Winneconna Parkway,2006,1,24.38787308288863
-Winneconna Parkway,2007,0,0
-Winneconna Parkway,2008,0,0
-Winneconna Parkway,2009,0,0
-Winneconna Parkway,2010,0,0
-Winneconna Parkway,2011,0,0
-Winneconna Parkway,2012,0,0
-Winneconna Parkway,2013,1,24.38787308288863
-Winneconna Parkway,2014,0,0
-Winneconna Parkway,2015,0,0
-Winneconna Parkway,2016,0,0
-Winneconna Parkway,2017,2,48.77574616577726
-Winneconna Parkway,2018,0,0
-Winneconna Parkway,2019,0,0
-Winneconna Parkway,2020,0,0
-Winneconna Parkway,2021,0,0
-Woodlawn,2006,9,19.871291087543227
-Woodlawn,2007,6,13.247527391695485
-Woodlawn,2008,4,8.831684927796989
-Woodlawn,2009,1,2.207921231949247
-Woodlawn,2010,2,4.415842463898494
-Woodlawn,2011,2,4.415842463898494
-Woodlawn,2012,1,2.207921231949247
-Woodlawn,2013,3,6.623763695847742
-Woodlawn,2014,4,8.831684927796989
-Woodlawn,2015,4,8.831684927796989
-Woodlawn,2016,4,8.831684927796989
-Woodlawn,2017,2,4.415842463898494
-Woodlawn,2018,4,8.831684927796989
-Woodlawn,2019,4,8.831684927796989
-Woodlawn,2020,2,4.415842463898494
-Woodlawn,2021,0,0
-Wrightwood Neighbors,2006,19,88.56146643976237
-Wrightwood Neighbors,2007,25,116.52824531547681
-Wrightwood Neighbors,2008,11,51.2724279388098
-Wrightwood Neighbors,2009,2,9.322259625238145
-Wrightwood Neighbors,2010,3,13.983389437857218
-Wrightwood Neighbors,2011,4,18.64451925047629
-Wrightwood Neighbors,2012,1,4.661129812619072
-Wrightwood Neighbors,2013,15,69.91694718928609
-Wrightwood Neighbors,2014,7,32.627908688333505
-Wrightwood Neighbors,2015,19,88.56146643976237
-Wrightwood Neighbors,2016,6,27.966778875714436
-Wrightwood Neighbors,2017,19,88.56146643976237
-Wrightwood Neighbors,2018,7,32.627908688333505
-Wrightwood Neighbors,2019,12,55.93355775142887
-Wrightwood Neighbors,2020,10,46.611298126190725
-Wrightwood Neighbors,2021,10,46.611298126190725
-Wrigleyville,2006,7,88.96164609701397
-Wrigleyville,2007,6,76.25283951172625
-Wrigleyville,2008,4,50.835226341150836
-Wrigleyville,2009,0,0
-Wrigleyville,2010,2,25.417613170575418
-Wrigleyville,2011,0,0
-Wrigleyville,2012,2,25.417613170575418
-Wrigleyville,2013,1,12.708806585287709
-Wrigleyville,2014,4,50.835226341150836
-Wrigleyville,2015,1,12.708806585287709
-Wrigleyville,2016,3,38.126419755863125
-Wrigleyville,2017,0,0
-Wrigleyville,2018,2,25.417613170575418
-Wrigleyville,2019,4,50.835226341150836
-Wrigleyville,2020,3,38.126419755863125
-Wrigleyville,2021,1,12.708806585287709
+neighborhood,year,n_permits,permits_per_sm,treatment
+Albany Park,2006,2,6.471747991313565,0
+Albany Park,2007,4,12.94349598262713,0
+Albany Park,2008,3,9.707621986970347,0
+Albany Park,2009,2,6.471747991313565,0
+Albany Park,2010,0,0,0
+Albany Park,2011,0,0,0
+Albany Park,2012,1,3.2358739956567826,0
+Albany Park,2013,3,9.707621986970347,0
+Albany Park,2014,1,3.2358739956567826,0
+Albany Park,2015,1,3.2358739956567826,0
+Albany Park,2016,1,3.2358739956567826,0
+Albany Park,2017,0,0,0
+Albany Park,2018,2,6.471747991313565,0
+Albany Park,2019,0,0,0
+Albany Park,2020,3,9.707621986970347,0
+Albany Park,2021,4,12.94349598262713,0
+Andersonville,2006,0,0,0
+Andersonville,2007,0,0,0
+Andersonville,2008,0,0,0
+Andersonville,2009,0,0,0
+Andersonville,2010,0,0,0
+Andersonville,2011,1,324.05662097042364,0
+Andersonville,2012,0,0,0
+Andersonville,2013,0,0,0
+Andersonville,2014,0,0,0
+Andersonville,2015,0,0,0
+Andersonville,2016,0,0,0
+Andersonville,2017,0,0,0
+Andersonville,2018,1,324.05662097042364,0
+Andersonville,2019,0,0,0
+Andersonville,2020,0,0,0
+Andersonville,2021,0,0,0
+Avondale,2006,3,60.09825387374898,0
+Avondale,2007,2,40.06550258249932,0
+Avondale,2008,0,0,0
+Avondale,2009,1,20.03275129124966,0
+Avondale,2010,0,0,0
+Avondale,2011,1,20.03275129124966,0
+Avondale,2012,0,0,0
+Avondale,2013,1,20.03275129124966,0
+Avondale,2014,0,0,0
+Avondale,2015,0,0,0
+Avondale,2016,1,20.03275129124966,0
+Avondale,2017,1,20.03275129124966,0
+Avondale,2018,2,40.06550258249932,0
+Avondale,2019,1,20.03275129124966,0
+Avondale,2020,1,20.03275129124966,0
+Avondale,2021,1,20.03275129124966,0
+Back of the Yards,2006,0,0,0
+Back of the Yards,2007,2,10.279815918061841,0
+Back of the Yards,2008,1,5.1399079590309205,0
+Back of the Yards,2009,8,41.119263672247364,0
+Back of the Yards,2010,4,20.559631836123682,0
+Back of the Yards,2011,1,5.1399079590309205,0
+Back of the Yards,2012,3,15.419723877092762,0
+Back of the Yards,2013,0,0,0
+Back of the Yards,2014,1,5.1399079590309205,0
+Back of the Yards,2015,3,15.419723877092762,0
+Back of the Yards,2016,2,10.279815918061841,0
+Back of the Yards,2017,9,46.259171631278285,0
+Back of the Yards,2018,3,15.419723877092762,0
+Back of the Yards,2019,1,5.1399079590309205,0
+Back of the Yards,2020,1,5.1399079590309205,0
+Back of the Yards,2021,1,5.1399079590309205,0
+Belmont Central,2006,0,0,0
+Belmont Central,2007,0,0,0
+Belmont Central,2008,0,0,0
+Belmont Central,2009,0,0,0
+Belmont Central,2010,0,0,0
+Belmont Central,2011,0,0,0
+Belmont Central,2012,0,0,0
+Belmont Central,2013,2,123.89901511687965,0
+Belmont Central,2014,0,0,0
+Belmont Central,2015,0,0,0
+Belmont Central,2016,0,0,0
+Belmont Central,2017,0,0,0
+Belmont Central,2018,0,0,0
+Belmont Central,2019,0,0,0
+Belmont Central,2020,0,0,0
+Belmont Central,2021,0,0,0
+Belmont Heights,2006,0,0,0
+Belmont Heights,2007,1,35.69794930837175,0
+Belmont Heights,2008,1,35.69794930837175,0
+Belmont Heights,2009,0,0,0
+Belmont Heights,2010,0,0,0
+Belmont Heights,2011,0,0,0
+Belmont Heights,2012,0,0,0
+Belmont Heights,2013,0,0,0
+Belmont Heights,2014,0,0,0
+Belmont Heights,2015,0,0,0
+Belmont Heights,2016,0,0,0
+Belmont Heights,2017,1,35.69794930837175,0
+Belmont Heights,2018,0,0,0
+Belmont Heights,2019,0,0,0
+Belmont Heights,2020,0,0,0
+Belmont Heights,2021,0,0,0
+Bowmanville,2006,0,0,0
+Bowmanville,2007,1,102.89592698067179,0
+Bowmanville,2008,0,0,0
+Bowmanville,2009,0,0,0
+Bowmanville,2010,0,0,0
+Bowmanville,2011,0,0,0
+Bowmanville,2012,0,0,0
+Bowmanville,2013,0,0,0
+Bowmanville,2014,0,0,0
+Bowmanville,2015,0,0,0
+Bowmanville,2016,0,0,0
+Bowmanville,2017,1,102.89592698067179,0
+Bowmanville,2018,1,102.89592698067179,0
+Bowmanville,2019,1,102.89592698067179,0
+Bowmanville,2020,1,102.89592698067179,0
+Bowmanville,2021,0,0,0
+Brainerd,2006,0,0,0
+Brainerd,2007,0,0,0
+Brainerd,2008,0,0,0
+Brainerd,2009,0,0,0
+Brainerd,2010,0,0,0
+Brainerd,2011,0,0,0
+Brainerd,2012,1,80.14787899778652,0
+Brainerd,2013,0,0,0
+Brainerd,2014,0,0,0
+Brainerd,2015,1,80.14787899778652,0
+Brainerd,2016,0,0,0
+Brainerd,2017,0,0,0
+Brainerd,2018,0,0,0
+Brainerd,2019,0,0,0
+Brainerd,2020,0,0,0
+Brainerd,2021,0,0,0
+Bridgeport,2006,6,28.274979949575492,0
+Bridgeport,2007,3,14.137489974787746,0
+Bridgeport,2008,1,4.712496658262582,0
+Bridgeport,2009,2,9.424993316525164,0
+Bridgeport,2010,1,4.712496658262582,0
+Bridgeport,2011,0,0,0
+Bridgeport,2012,1,4.712496658262582,0
+Bridgeport,2013,0,0,0
+Bridgeport,2014,1,4.712496658262582,0
+Bridgeport,2015,1,4.712496658262582,0
+Bridgeport,2016,0,0,0
+Bridgeport,2017,3,14.137489974787746,0
+Bridgeport,2018,2,9.424993316525164,0
+Bridgeport,2019,5,23.56248329131291,0
+Bridgeport,2020,2,9.424993316525164,0
+Bridgeport,2021,1,4.712496658262582,0
+Brighton Park,2006,2,46.12334035864802,0
+Brighton Park,2007,1,23.06167017932401,0
+Brighton Park,2008,0,0,0
+Brighton Park,2009,0,0,0
+Brighton Park,2010,0,0,0
+Brighton Park,2011,0,0,0
+Brighton Park,2012,0,0,0
+Brighton Park,2013,0,0,0
+Brighton Park,2014,1,23.06167017932401,0
+Brighton Park,2015,0,0,0
+Brighton Park,2016,0,0,0
+Brighton Park,2017,0,0,0
+Brighton Park,2018,0,0,0
+Brighton Park,2019,0,0,0
+Brighton Park,2020,0,0,0
+Brighton Park,2021,0,0,0
+Bronzeville,2006,15,10.920588878281677,0
+Bronzeville,2007,17,12.376667395385901,0
+Bronzeville,2008,10,7.280392585521119,0
+Bronzeville,2009,9,6.552353326969007,0
+Bronzeville,2010,12,8.736471102625343,0
+Bronzeville,2011,7,5.0962748098647825,0
+Bronzeville,2012,16,11.64862813683379,0
+Bronzeville,2013,8,5.824314068416895,0
+Bronzeville,2014,9,6.552353326969007,0
+Bronzeville,2015,9,6.552353326969007,0
+Bronzeville,2016,11,8.00843184407323,0
+Bronzeville,2017,7,5.0962748098647825,0
+Bronzeville,2018,7,5.0962748098647825,0
+Bronzeville,2019,6,4.368235551312671,0
+Bronzeville,2020,5,3.6401962927605593,0
+Bronzeville,2021,0,0,0
+Bucktown,2006,7,34.54242775414402,0
+Bucktown,2007,12,59.215590435675466,0
+Bucktown,2008,3,14.803897608918867,0
+Bucktown,2009,1,4.934632536306289,0
+Bucktown,2010,3,14.803897608918867,0
+Bucktown,2011,3,14.803897608918867,0
+Bucktown,2012,7,34.54242775414402,0
+Bucktown,2013,9,44.4116928267566,0
+Bucktown,2014,13,64.15022297198176,0
+Bucktown,2015,14,69.08485550828804,0
+Bucktown,2016,9,44.4116928267566,0
+Bucktown,2017,16,78.95412058090062,0
+Bucktown,2018,8,39.47706029045031,0
+Bucktown,2019,4,19.738530145225155,0
+Bucktown,2020,3,14.803897608918867,0
+Bucktown,2021,5,24.673162681531444,0
+Budlong Woods,2006,1,16.475015535011586,0
+Budlong Woods,2007,0,0,0
+Budlong Woods,2008,0,0,0
+Budlong Woods,2009,0,0,0
+Budlong Woods,2010,0,0,0
+Budlong Woods,2011,0,0,0
+Budlong Woods,2012,0,0,0
+Budlong Woods,2013,0,0,0
+Budlong Woods,2014,0,0,0
+Budlong Woods,2015,0,0,0
+Budlong Woods,2016,0,0,0
+Budlong Woods,2017,0,0,0
+Budlong Woods,2018,1,16.475015535011586,0
+Budlong Woods,2019,0,0,0
+Budlong Woods,2020,0,0,0
+Budlong Woods,2021,0,0,0
+Buena Park,2006,1,5.516433372075083,0
+Buena Park,2007,2,11.032866744150166,0
+Buena Park,2008,2,11.032866744150166,0
+Buena Park,2009,0,0,0
+Buena Park,2010,0,0,0
+Buena Park,2011,1,5.516433372075083,0
+Buena Park,2012,0,0,0
+Buena Park,2013,0,0,0
+Buena Park,2014,2,11.032866744150166,0
+Buena Park,2015,0,0,0
+Buena Park,2016,0,0,0
+Buena Park,2017,0,0,0
+Buena Park,2018,0,0,0
+Buena Park,2019,1,5.516433372075083,0
+Buena Park,2020,0,0,0
+Buena Park,2021,0,0,0
+Burnside,2006,0,0,0
+Burnside,2007,0,0,0
+Burnside,2008,0,0,0
+Burnside,2009,0,0,0
+Burnside,2010,0,0,0
+Burnside,2011,0,0,0
+Burnside,2012,0,0,0
+Burnside,2013,0,0,0
+Burnside,2014,0,0,0
+Burnside,2015,0,0,0
+Burnside,2016,0,0,0
+Burnside,2017,0,0,0
+Burnside,2018,0,0,0
+Burnside,2019,1,16.70260063507928,0
+Burnside,2020,0,0,0
+Burnside,2021,0,0,0
+Cabrini Green,2006,0,0,0
+Cabrini Green,2007,0,0,0
+Cabrini Green,2008,0,0,0
+Cabrini Green,2009,1,20.51413443942583,0
+Cabrini Green,2010,0,0,0
+Cabrini Green,2011,2,41.02826887885166,0
+Cabrini Green,2012,1,20.51413443942583,0
+Cabrini Green,2013,0,0,0
+Cabrini Green,2014,0,0,0
+Cabrini Green,2015,0,0,0
+Cabrini Green,2016,0,0,0
+Cabrini Green,2017,0,0,0
+Cabrini Green,2018,0,0,0
+Cabrini Green,2019,0,0,0
+Cabrini Green,2020,0,0,0
+Cabrini Green,2021,0,0,0
+Canaryville,2006,0,0,0
+Canaryville,2007,0,0,0
+Canaryville,2008,0,0,0
+Canaryville,2009,0,0,0
+Canaryville,2010,0,0,0
+Canaryville,2011,0,0,0
+Canaryville,2012,0,0,0
+Canaryville,2013,0,0,0
+Canaryville,2014,0,0,0
+Canaryville,2015,1,104.99938749716296,0
+Canaryville,2016,0,0,0
+Canaryville,2017,0,0,0
+Canaryville,2018,0,0,0
+Canaryville,2019,0,0,0
+Canaryville,2020,0,0,0
+Canaryville,2021,0,0,0
+Chatham,2006,1,4.118084113367585,0
+Chatham,2007,0,0,0
+Chatham,2008,1,4.118084113367585,0
+Chatham,2009,0,0,0
+Chatham,2010,0,0,0
+Chatham,2011,2,8.23616822673517,0
+Chatham,2012,1,4.118084113367585,0
+Chatham,2013,0,0,0
+Chatham,2014,0,0,0
+Chatham,2015,0,0,0
+Chatham,2016,1,4.118084113367585,0
+Chatham,2017,0,0,0
+Chatham,2018,0,0,0
+Chatham,2019,0,0,0
+Chatham,2020,0,0,0
+Chatham,2021,0,0,0
+Chinatown,2006,0,0,0
+Chinatown,2007,0,0,0
+Chinatown,2008,0,0,0
+Chinatown,2009,0,0,0
+Chinatown,2010,1,15.33877969062533,0
+Chinatown,2011,0,0,0
+Chinatown,2012,0,0,0
+Chinatown,2013,0,0,0
+Chinatown,2014,0,0,0
+Chinatown,2015,0,0,0
+Chinatown,2016,2,30.67755938125066,0
+Chinatown,2017,0,0,0
+Chinatown,2018,0,0,0
+Chinatown,2019,0,0,0
+Chinatown,2020,1,15.33877969062533,0
+Chinatown,2021,1,15.33877969062533,0
+Cragin,2006,0,0,0
+Cragin,2007,0,0,0
+Cragin,2008,0,0,0
+Cragin,2009,0,0,0
+Cragin,2010,0,0,0
+Cragin,2011,1,139.51985507291573,0
+Cragin,2012,0,0,0
+Cragin,2013,0,0,0
+Cragin,2014,0,0,0
+Cragin,2015,0,0,0
+Cragin,2016,0,0,0
+Cragin,2017,0,0,0
+Cragin,2018,0,0,0
+Cragin,2019,0,0,0
+Cragin,2020,0,0,0
+Cragin,2021,0,0,0
+Douglas Park,2006,1,13.313961875181771,0
+Douglas Park,2007,2,26.627923750363543,0
+Douglas Park,2008,2,26.627923750363543,0
+Douglas Park,2009,0,0,0
+Douglas Park,2010,0,0,0
+Douglas Park,2011,4,53.255847500727086,0
+Douglas Park,2012,2,26.627923750363543,0
+Douglas Park,2013,0,0,0
+Douglas Park,2014,1,13.313961875181771,0
+Douglas Park,2015,0,0,0
+Douglas Park,2016,0,0,0
+Douglas Park,2017,1,13.313961875181771,0
+Douglas Park,2018,1,13.313961875181771,0
+Douglas Park,2019,1,13.313961875181771,0
+Douglas Park,2020,0,0,0
+Douglas Park,2021,0,0,0
+East Garfield Park,2006,7,9.329099880950146,0
+East Garfield Park,2007,5,6.663642772107247,0
+East Garfield Park,2008,5,6.663642772107247,0
+East Garfield Park,2009,7,9.329099880950146,0
+East Garfield Park,2010,19,25.321842534007537,0
+East Garfield Park,2011,9,11.994556989793043,0
+East Garfield Park,2012,19,25.321842534007537,0
+East Garfield Park,2013,11,14.660014098635942,0
+East Garfield Park,2014,8,10.661828435371595,0
+East Garfield Park,2015,5,6.663642772107247,0
+East Garfield Park,2016,10,13.327285544214494,0
+East Garfield Park,2017,12,15.992742653057391,0
+East Garfield Park,2018,6,7.9963713265286955,0
+East Garfield Park,2019,8,10.661828435371595,0
+East Garfield Park,2020,1,1.3327285544214493,0
+East Garfield Park,2021,4,5.330914217685797,0
+East Hyde Park,2006,0,0,0
+East Hyde Park,2007,1,7.604794866241115,0
+East Hyde Park,2008,1,7.604794866241115,0
+East Hyde Park,2009,0,0,0
+East Hyde Park,2010,0,0,0
+East Hyde Park,2011,0,0,0
+East Hyde Park,2012,0,0,0
+East Hyde Park,2013,0,0,0
+East Hyde Park,2014,0,0,0
+East Hyde Park,2015,0,0,0
+East Hyde Park,2016,0,0,0
+East Hyde Park,2017,0,0,0
+East Hyde Park,2018,0,0,0
+East Hyde Park,2019,0,0,0
+East Hyde Park,2020,0,0,0
+East Hyde Park,2021,0,0,0
+East Pilsen,2006,1,14.375701458069209,0
+East Pilsen,2007,0,0,0
+East Pilsen,2008,0,0,0
+East Pilsen,2009,1,14.375701458069209,0
+East Pilsen,2010,0,0,0
+East Pilsen,2011,1,14.375701458069209,0
+East Pilsen,2012,0,0,0
+East Pilsen,2013,0,0,0
+East Pilsen,2014,0,0,0
+East Pilsen,2015,1,14.375701458069209,0
+East Pilsen,2016,1,14.375701458069209,0
+East Pilsen,2017,2,28.751402916138417,0
+East Pilsen,2018,1,14.375701458069209,0
+East Pilsen,2019,0,0,0
+East Pilsen,2020,2,28.751402916138417,0
+East Pilsen,2021,0,0,0
+East Ukrainian Village,2006,12,62.08308965726978,0
+East Ukrainian Village,2007,8,41.38872643817985,0
+East Ukrainian Village,2008,11,56.9094988524973,0
+East Ukrainian Village,2009,6,31.04154482863489,0
+East Ukrainian Village,2010,4,20.694363219089926,0
+East Ukrainian Village,2011,5,25.86795402386241,0
+East Ukrainian Village,2012,5,25.86795402386241,0
+East Ukrainian Village,2013,8,41.38872643817985,0
+East Ukrainian Village,2014,6,31.04154482863489,0
+East Ukrainian Village,2015,6,31.04154482863489,0
+East Ukrainian Village,2016,9,46.56231724295233,0
+East Ukrainian Village,2017,13,67.25668046204227,0
+East Ukrainian Village,2018,12,62.08308965726978,0
+East Ukrainian Village,2019,2,10.347181609544963,0
+East Ukrainian Village,2020,5,25.86795402386241,0
+East Ukrainian Village,2021,8,41.38872643817985,0
+Eden Green,2006,0,0,0
+Eden Green,2007,0,0,0
+Eden Green,2008,0,0,0
+Eden Green,2009,0,0,0
+Eden Green,2010,1,590.7983637980911,0
+Eden Green,2011,0,0,0
+Eden Green,2012,0,0,0
+Eden Green,2013,0,0,0
+Eden Green,2014,0,0,0
+Eden Green,2015,0,0,0
+Eden Green,2016,0,0,0
+Eden Green,2017,0,0,0
+Eden Green,2018,0,0,0
+Eden Green,2019,0,0,0
+Eden Green,2020,0,0,0
+Eden Green,2021,0,0,0
+Edgewater,2006,2,62.76880712383125,0
+Edgewater,2007,0,0,0
+Edgewater,2008,0,0,0
+Edgewater,2009,0,0,0
+Edgewater,2010,0,0,0
+Edgewater,2011,0,0,0
+Edgewater,2012,0,0,0
+Edgewater,2013,0,0,0
+Edgewater,2014,1,31.384403561915626,0
+Edgewater,2015,0,0,0
+Edgewater,2016,0,0,0
+Edgewater,2017,1,31.384403561915626,0
+Edgewater,2018,0,0,0
+Edgewater,2019,0,0,0
+Edgewater,2020,0,0,0
+Edgewater,2021,1,31.384403561915626,0
+Edgewater Beach,2006,2,13.182563843012083,0
+Edgewater Beach,2007,2,13.182563843012083,0
+Edgewater Beach,2008,1,6.591281921506042,0
+Edgewater Beach,2009,2,13.182563843012083,0
+Edgewater Beach,2010,0,0,0
+Edgewater Beach,2011,0,0,0
+Edgewater Beach,2012,0,0,0
+Edgewater Beach,2013,0,0,0
+Edgewater Beach,2014,0,0,0
+Edgewater Beach,2015,0,0,0
+Edgewater Beach,2016,0,0,0
+Edgewater Beach,2017,0,0,0
+Edgewater Beach,2018,0,0,0
+Edgewater Beach,2019,0,0,0
+Edgewater Beach,2020,1,6.591281921506042,0
+Edgewater Beach,2021,0,0,0
+Edison Park,2006,1,20.521137837313493,0
+Edison Park,2007,5,102.60568918656746,0
+Edison Park,2008,0,0,0
+Edison Park,2009,0,0,0
+Edison Park,2010,3,61.563413511940475,0
+Edison Park,2011,0,0,0
+Edison Park,2012,0,0,0
+Edison Park,2013,0,0,0
+Edison Park,2014,1,20.521137837313493,0
+Edison Park,2015,0,0,0
+Edison Park,2016,0,0,0
+Edison Park,2017,0,0,0
+Edison Park,2018,1,20.521137837313493,0
+Edison Park,2019,0,0,0
+Edison Park,2020,0,0,0
+Edison Park,2021,0,0,0
+Englewood,2006,3,3.2617385946274307,0
+Englewood,2007,7,7.610723387464005,0
+Englewood,2008,4,4.348984792836575,0
+Englewood,2009,8,8.69796958567315,0
+Englewood,2010,11,11.95970818030058,0
+Englewood,2011,8,8.69796958567315,0
+Englewood,2012,20,21.744923964182874,0
+Englewood,2013,16,17.3959391713463,0
+Englewood,2014,10,10.872461982091437,0
+Englewood,2015,8,8.69796958567315,0
+Englewood,2016,13,14.134200576718866,0
+Englewood,2017,18,19.570431567764587,0
+Englewood,2018,8,8.69796958567315,0
+Englewood,2019,21,22.832170162392018,0
+Englewood,2020,7,7.610723387464005,0
+Englewood,2021,8,8.69796958567315,0
+Fifth City,2006,0,0,0
+Fifth City,2007,1,8.269142670802296,0
+Fifth City,2008,0,0,0
+Fifth City,2009,1,8.269142670802296,0
+Fifth City,2010,3,24.807428012406884,0
+Fifth City,2011,1,8.269142670802296,0
+Fifth City,2012,6,49.61485602481377,0
+Fifth City,2013,2,16.538285341604592,0
+Fifth City,2014,2,16.538285341604592,0
+Fifth City,2015,0,0,0
+Fifth City,2016,0,0,0
+Fifth City,2017,2,16.538285341604592,0
+Fifth City,2018,4,33.076570683209184,0
+Fifth City,2019,3,24.807428012406884,0
+Fifth City,2020,0,0,0
+Fifth City,2021,1,8.269142670802296,0
+Fuller Park,2006,0,0,0
+Fuller Park,2007,0,0,0
+Fuller Park,2008,0,0,0
+Fuller Park,2009,0,0,0
+Fuller Park,2010,0,0,0
+Fuller Park,2011,0,0,0
+Fuller Park,2012,0,0,0
+Fuller Park,2013,0,0,0
+Fuller Park,2014,1,158.312758742964,0
+Fuller Park,2015,0,0,0
+Fuller Park,2016,0,0,0
+Fuller Park,2017,0,0,0
+Fuller Park,2018,0,0,0
+Fuller Park,2019,0,0,0
+Fuller Park,2020,0,0,0
+Fuller Park,2021,0,0,0
+Gage Park,2006,1,86.0370552774304,0
+Gage Park,2007,0,0,0
+Gage Park,2008,0,0,0
+Gage Park,2009,1,86.0370552774304,0
+Gage Park,2010,0,0,0
+Gage Park,2011,0,0,0
+Gage Park,2012,0,0,0
+Gage Park,2013,0,0,0
+Gage Park,2014,0,0,0
+Gage Park,2015,0,0,0
+Gage Park,2016,0,0,0
+Gage Park,2017,0,0,0
+Gage Park,2018,1,86.0370552774304,0
+Gage Park,2019,0,0,0
+Gage Park,2020,0,0,0
+Gage Park,2021,0,0,0
+Galewood,2006,0,0,0
+Galewood,2007,0,0,0
+Galewood,2008,0,0,0
+Galewood,2009,0,0,0
+Galewood,2010,1,36.02826566361405,0
+Galewood,2011,0,0,0
+Galewood,2012,0,0,0
+Galewood,2013,0,0,0
+Galewood,2014,0,0,0
+Galewood,2015,0,0,0
+Galewood,2016,0,0,0
+Galewood,2017,0,0,0
+Galewood,2018,0,0,0
+Galewood,2019,0,0,0
+Galewood,2020,0,0,0
+Galewood,2021,0,0,0
+Garfield Ridge,2006,0,0,0
+Garfield Ridge,2007,0,0,0
+Garfield Ridge,2008,0,0,0
+Garfield Ridge,2009,0,0,0
+Garfield Ridge,2010,0,0,0
+Garfield Ridge,2011,1,29.37244795011336,0
+Garfield Ridge,2012,0,0,0
+Garfield Ridge,2013,0,0,0
+Garfield Ridge,2014,0,0,0
+Garfield Ridge,2015,0,0,0
+Garfield Ridge,2016,0,0,0
+Garfield Ridge,2017,0,0,0
+Garfield Ridge,2018,0,0,0
+Garfield Ridge,2019,0,0,0
+Garfield Ridge,2020,0,0,0
+Garfield Ridge,2021,0,0,0
+Gold Coast,2006,8,65.51012592319353,0
+Gold Coast,2007,2,16.377531480798382,0
+Gold Coast,2008,2,16.377531480798382,0
+Gold Coast,2009,3,24.566297221197573,0
+Gold Coast,2010,1,8.188765740399191,0
+Gold Coast,2011,2,16.377531480798382,0
+Gold Coast,2012,0,0,0
+Gold Coast,2013,1,8.188765740399191,0
+Gold Coast,2014,1,8.188765740399191,0
+Gold Coast,2015,0,0,0
+Gold Coast,2016,2,16.377531480798382,0
+Gold Coast,2017,1,8.188765740399191,0
+Gold Coast,2018,1,8.188765740399191,0
+Gold Coast,2019,0,0,0
+Gold Coast,2020,2,16.377531480798382,0
+Gold Coast,2021,0,0,0
+Goose Island,2006,1,14.252320631237295,0
+Goose Island,2007,0,0,0
+Goose Island,2008,0,0,0
+Goose Island,2009,2,28.50464126247459,0
+Goose Island,2010,0,0,0
+Goose Island,2011,3,42.75696189371188,0
+Goose Island,2012,0,0,0
+Goose Island,2013,0,0,0
+Goose Island,2014,0,0,0
+Goose Island,2015,0,0,0
+Goose Island,2016,0,0,0
+Goose Island,2017,0,0,0
+Goose Island,2018,0,0,0
+Goose Island,2019,0,0,0
+Goose Island,2020,1,14.252320631237295,0
+Goose Island,2021,0,0,0
+Grand Crossing,2006,0,0,0
+Grand Crossing,2007,0,0,0
+Grand Crossing,2008,0,0,0
+Grand Crossing,2009,0,0,0
+Grand Crossing,2010,0,0,0
+Grand Crossing,2011,1,2.310361172457551,0
+Grand Crossing,2012,1,2.310361172457551,0
+Grand Crossing,2013,2,4.620722344915102,0
+Grand Crossing,2014,0,0,0
+Grand Crossing,2015,0,0,0
+Grand Crossing,2016,0,0,0
+Grand Crossing,2017,1,2.310361172457551,0
+Grand Crossing,2018,8,18.482889379660406,0
+Grand Crossing,2019,0,0,0
+Grand Crossing,2020,0,0,0
+Grand Crossing,2021,1,2.310361172457551,0
+Gresham,2006,0,0,0
+Gresham,2007,0,0,0
+Gresham,2008,0,0,0
+Gresham,2009,4,14.95250128424904,0
+Gresham,2010,3,11.21437596318678,0
+Gresham,2011,1,3.73812532106226,0
+Gresham,2012,2,7.47625064212452,0
+Gresham,2013,2,7.47625064212452,0
+Gresham,2014,3,11.21437596318678,0
+Gresham,2015,1,3.73812532106226,0
+Gresham,2016,0,0,0
+Gresham,2017,4,14.95250128424904,0
+Gresham,2018,4,14.95250128424904,0
+Gresham,2019,1,3.73812532106226,0
+Gresham,2020,0,0,0
+Gresham,2021,1,3.73812532106226,0
+Heart of Chicago,2006,0,0,0
+Heart of Chicago,2007,0,0,0
+Heart of Chicago,2008,1,119.96645963407214,0
+Heart of Chicago,2009,0,0,0
+Heart of Chicago,2010,0,0,0
+Heart of Chicago,2011,1,119.96645963407214,0
+Heart of Chicago,2012,0,0,0
+Heart of Chicago,2013,0,0,0
+Heart of Chicago,2014,0,0,0
+Heart of Chicago,2015,0,0,0
+Heart of Chicago,2016,0,0,0
+Heart of Chicago,2017,0,0,0
+Heart of Chicago,2018,0,0,0
+Heart of Chicago,2019,0,0,0
+Heart of Chicago,2020,0,0,0
+Heart of Chicago,2021,0,0,0
+Hegewisch,2006,0,0,0
+Hegewisch,2007,0,0,0
+Hegewisch,2008,0,0,0
+Hegewisch,2009,0,0,0
+Hegewisch,2010,0,0,0
+Hegewisch,2011,0,0,0
+Hegewisch,2012,2,147.48509112080825,0
+Hegewisch,2013,0,0,0
+Hegewisch,2014,0,0,0
+Hegewisch,2015,0,0,0
+Hegewisch,2016,0,0,0
+Hegewisch,2017,0,0,0
+Hegewisch,2018,0,0,0
+Hegewisch,2019,0,0,0
+Hegewisch,2020,0,0,0
+Hegewisch,2021,0,0,0
+Hermosa,2006,0,0,0
+Hermosa,2007,1,748.6433149347039,0
+Hermosa,2008,0,0,0
+Hermosa,2009,0,0,0
+Hermosa,2010,0,0,0
+Hermosa,2011,0,0,0
+Hermosa,2012,0,0,0
+Hermosa,2013,0,0,0
+Hermosa,2014,0,0,0
+Hermosa,2015,0,0,0
+Hermosa,2016,0,0,0
+Hermosa,2017,0,0,0
+Hermosa,2018,0,0,0
+Hermosa,2019,0,0,0
+Hermosa,2020,0,0,0
+Hermosa,2021,0,0,0
+Hollywood Park,2006,0,0,0
+Hollywood Park,2007,0,0,0
+Hollywood Park,2008,0,0,0
+Hollywood Park,2009,1,36.18788713335782,0
+Hollywood Park,2010,0,0,0
+Hollywood Park,2011,0,0,0
+Hollywood Park,2012,0,0,0
+Hollywood Park,2013,0,0,0
+Hollywood Park,2014,0,0,0
+Hollywood Park,2015,0,0,0
+Hollywood Park,2016,0,0,0
+Hollywood Park,2017,0,0,0
+Hollywood Park,2018,0,0,0
+Hollywood Park,2019,0,0,0
+Hollywood Park,2020,0,0,0
+Hollywood Park,2021,0,0,0
+Homan Square,2006,0,0,0
+Homan Square,2007,2,15.223383041138378,0
+Homan Square,2008,1,7.611691520569189,0
+Homan Square,2009,0,0,0
+Homan Square,2010,2,15.223383041138378,0
+Homan Square,2011,0,0,0
+Homan Square,2012,2,15.223383041138378,0
+Homan Square,2013,4,30.446766082276756,0
+Homan Square,2014,0,0,0
+Homan Square,2015,3,22.835074561707565,0
+Homan Square,2016,0,0,0
+Homan Square,2017,0,0,0
+Homan Square,2018,0,0,0
+Homan Square,2019,2,15.223383041138378,0
+Homan Square,2020,1,7.611691520569189,0
+Homan Square,2021,0,0,0
+Humboldt Park,2006,21,130.49775722794587,0
+Humboldt Park,2007,4,24.85671566246588,0
+Humboldt Park,2008,5,31.07089457808235,0
+Humboldt Park,2009,2,12.42835783123294,0
+Humboldt Park,2010,1,6.21417891561647,0
+Humboldt Park,2011,0,0,0
+Humboldt Park,2012,1,6.21417891561647,0
+Humboldt Park,2013,4,24.85671566246588,0
+Humboldt Park,2014,6,37.28507349369882,0
+Humboldt Park,2015,8,49.71343132493176,0
+Humboldt Park,2016,7,43.49925240931529,0
+Humboldt Park,2017,5,31.07089457808235,0
+Humboldt Park,2018,6,37.28507349369882,0
+Humboldt Park,2019,5,31.07089457808235,0
+Humboldt Park,2020,7,43.49925240931529,0
+Humboldt Park,2021,6,37.28507349369882,0
+Hyde Park,2006,3,8.467379412711972,0
+Hyde Park,2007,1,2.822459804237324,0
+Hyde Park,2008,5,14.11229902118662,0
+Hyde Park,2009,2,5.644919608474648,0
+Hyde Park,2010,1,2.822459804237324,0
+Hyde Park,2011,2,5.644919608474648,0
+Hyde Park,2012,0,0,0
+Hyde Park,2013,0,0,0
+Hyde Park,2014,1,2.822459804237324,0
+Hyde Park,2015,0,0,0
+Hyde Park,2016,0,0,0
+Hyde Park,2017,0,0,0
+Hyde Park,2018,3,8.467379412711972,0
+Hyde Park,2019,2,5.644919608474648,0
+Hyde Park,2020,0,0,0
+Hyde Park,2021,1,2.822459804237324,0
+Ida B. Wells / Darrow Homes,2006,0,0,0
+Ida B. Wells / Darrow Homes,2007,8,126.11551986501252,0
+Ida B. Wells / Darrow Homes,2008,8,126.11551986501252,0
+Ida B. Wells / Darrow Homes,2009,0,0,0
+Ida B. Wells / Darrow Homes,2010,0,0,0
+Ida B. Wells / Darrow Homes,2011,4,63.05775993250626,0
+Ida B. Wells / Darrow Homes,2012,0,0,0
+Ida B. Wells / Darrow Homes,2013,0,0,0
+Ida B. Wells / Darrow Homes,2014,0,0,0
+Ida B. Wells / Darrow Homes,2015,0,0,0
+Ida B. Wells / Darrow Homes,2016,0,0,0
+Ida B. Wells / Darrow Homes,2017,0,0,0
+Ida B. Wells / Darrow Homes,2018,0,0,0
+Ida B. Wells / Darrow Homes,2019,0,0,0
+Ida B. Wells / Darrow Homes,2020,0,0,0
+Ida B. Wells / Darrow Homes,2021,0,0,0
+Irving Park,2006,0,0,0
+Irving Park,2007,0,0,0
+Irving Park,2008,0,0,0
+Irving Park,2009,0,0,0
+Irving Park,2010,0,0,0
+Irving Park,2011,0,0,0
+Irving Park,2012,0,0,0
+Irving Park,2013,0,0,0
+Irving Park,2014,0,0,0
+Irving Park,2015,1,53.803833983430735,0
+Irving Park,2016,0,0,0
+Irving Park,2017,0,0,0
+Irving Park,2018,0,0,0
+Irving Park,2019,0,0,0
+Irving Park,2020,0,0,0
+Irving Park,2021,0,0,0
+Jefferson Park,2006,7,69.05442688756258,0
+Jefferson Park,2007,1,9.864918126794654,0
+Jefferson Park,2008,0,0,0
+Jefferson Park,2009,0,0,0
+Jefferson Park,2010,1,9.864918126794654,0
+Jefferson Park,2011,1,9.864918126794654,0
+Jefferson Park,2012,0,0,0
+Jefferson Park,2013,2,19.72983625358931,0
+Jefferson Park,2014,0,0,0
+Jefferson Park,2015,1,9.864918126794654,0
+Jefferson Park,2016,2,19.72983625358931,0
+Jefferson Park,2017,0,0,0
+Jefferson Park,2018,3,29.594754380383964,0
+Jefferson Park,2019,0,0,0
+Jefferson Park,2020,2,19.72983625358931,0
+Jefferson Park,2021,0,0,0
+Kenwood,2006,3,19.904342968542775,0
+Kenwood,2007,0,0,0
+Kenwood,2008,0,0,0
+Kenwood,2009,0,0,0
+Kenwood,2010,0,0,0
+Kenwood,2011,0,0,0
+Kenwood,2012,0,0,0
+Kenwood,2013,0,0,0
+Kenwood,2014,0,0,0
+Kenwood,2015,0,0,0
+Kenwood,2016,1,6.634780989514258,0
+Kenwood,2017,0,0,0
+Kenwood,2018,0,0,0
+Kenwood,2019,0,0,0
+Kenwood,2020,0,0,0
+Kenwood,2021,0,0,0
+Kilbourn Park,2006,0,0,0
+Kilbourn Park,2007,0,0,0
+Kilbourn Park,2008,0,0,0
+Kilbourn Park,2009,0,0,0
+Kilbourn Park,2010,0,0,0
+Kilbourn Park,2011,0,0,0
+Kilbourn Park,2012,0,0,0
+Kilbourn Park,2013,0,0,0
+Kilbourn Park,2014,0,0,0
+Kilbourn Park,2015,0,0,0
+Kilbourn Park,2016,0,0,0
+Kilbourn Park,2017,0,0,0
+Kilbourn Park,2018,0,0,0
+Kilbourn Park,2019,1,173.5973620195148,0
+Kilbourn Park,2020,0,0,0
+Kilbourn Park,2021,3,520.7920860585444,0
+Lake Meadows,2006,0,0,0
+Lake Meadows,2007,0,0,0
+Lake Meadows,2008,0,0,0
+Lake Meadows,2009,0,0,0
+Lake Meadows,2010,0,0,0
+Lake Meadows,2011,0,0,0
+Lake Meadows,2012,0,0,0
+Lake Meadows,2013,0,0,0
+Lake Meadows,2014,0,0,0
+Lake Meadows,2015,1,56.99676534597329,0
+Lake Meadows,2016,0,0,0
+Lake Meadows,2017,0,0,0
+Lake Meadows,2018,0,0,0
+Lake Meadows,2019,0,0,0
+Lake Meadows,2020,0,0,0
+Lake Meadows,2021,0,0,0
+Lake View,2006,32,65.4929711260464,0
+Lake View,2007,18,36.8397962584011,0
+Lake View,2008,19,38.88645160609005,0
+Lake View,2009,5,10.233276738444749,0
+Lake View,2010,4,8.1866213907558,0
+Lake View,2011,10,20.466553476889498,0
+Lake View,2012,16,32.7464855630232,0
+Lake View,2013,17,34.79314091071215,0
+Lake View,2014,25,51.16638369222375,0
+Lake View,2015,15,30.69983021533425,0
+Lake View,2016,12,24.5598641722674,0
+Lake View,2017,10,20.466553476889498,0
+Lake View,2018,19,38.88645160609005,0
+Lake View,2019,18,36.8397962584011,0
+Lake View,2020,9,18.41989812920055,0
+Lake View,2021,10,20.466553476889498,0
+Lake View East,2006,19,51.31232092746092,0
+Lake View East,2007,4,10.802593879465457,0
+Lake View East,2008,5,13.50324234933182,0
+Lake View East,2009,4,10.802593879465457,0
+Lake View East,2010,4,10.802593879465457,0
+Lake View East,2011,4,10.802593879465457,0
+Lake View East,2012,1,2.700648469866364,0
+Lake View East,2013,2,5.401296939732728,0
+Lake View East,2014,4,10.802593879465457,0
+Lake View East,2015,10,27.00648469866364,0
+Lake View East,2016,6,16.203890819198186,0
+Lake View East,2017,2,5.401296939732728,0
+Lake View East,2018,4,10.802593879465457,0
+Lake View East,2019,4,10.802593879465457,0
+Lake View East,2020,3,8.101945409599093,0
+Lake View East,2021,1,2.700648469866364,0
+Lathrop Homes,2006,2,56.39850604843202,0
+Lathrop Homes,2007,1,28.19925302421601,0
+Lathrop Homes,2008,1,28.19925302421601,0
+Lathrop Homes,2009,0,0,0
+Lathrop Homes,2010,0,0,0
+Lathrop Homes,2011,0,0,0
+Lathrop Homes,2012,1,28.19925302421601,0
+Lathrop Homes,2013,0,0,0
+Lathrop Homes,2014,2,56.39850604843202,0
+Lathrop Homes,2015,0,0,0
+Lathrop Homes,2016,0,0,0
+Lathrop Homes,2017,1,28.19925302421601,0
+Lathrop Homes,2018,0,0,0
+Lathrop Homes,2019,1,28.19925302421601,0
+Lathrop Homes,2020,0,0,0
+Lathrop Homes,2021,0,0,0
+Lawndale,2006,7,4.831865151100006,0
+Lawndale,2007,17,11.734529652671442,0
+Lawndale,2008,17,11.734529652671442,0
+Lawndale,2009,18,12.424796102828587,0
+Lawndale,2010,29,20.017727054557167,0
+Lawndale,2011,15,10.353996752357157,0
+Lawndale,2012,21,14.495595453300018,0
+Lawndale,2013,23,15.876128353614305,0
+Lawndale,2014,16,11.0442632025143,0
+Lawndale,2015,15,10.353996752357157,0
+Lawndale,2016,25,17.256661253928595,0
+Lawndale,2017,22,15.185861903457162,0
+Lawndale,2018,28,19.327460604400024,0
+Lawndale,2019,23,15.876128353614305,0
+Lawndale,2020,8,5.52213160125715,0
+Lawndale,2021,7,4.831865151100006,0
+Lincoln Park,2006,14,45.395139423938446,0
+Lincoln Park,2007,14,45.395139423938446,0
+Lincoln Park,2008,10,32.42509958852746,0
+Lincoln Park,2009,5,16.21254979426373,0
+Lincoln Park,2010,6,19.455059753116476,0
+Lincoln Park,2011,6,19.455059753116476,0
+Lincoln Park,2012,18,58.36517925934943,0
+Lincoln Park,2013,13,42.1526294650857,0
+Lincoln Park,2014,10,32.42509958852746,0
+Lincoln Park,2015,22,71.33521909476042,0
+Lincoln Park,2016,20,64.85019917705492,0
+Lincoln Park,2017,18,58.36517925934943,0
+Lincoln Park,2018,12,38.91011950623295,0
+Lincoln Park,2019,9,29.182589629674716,0
+Lincoln Park,2020,12,38.91011950623295,0
+Lincoln Park,2021,14,45.395139423938446,0
+Lincoln Square,2006,0,0,0
+Lincoln Square,2007,0,0,0
+Lincoln Square,2008,0,0,0
+Lincoln Square,2009,0,0,0
+Lincoln Square,2010,0,0,0
+Lincoln Square,2011,0,0,0
+Lincoln Square,2012,0,0,0
+Lincoln Square,2013,0,0,0
+Lincoln Square,2014,0,0,0
+Lincoln Square,2015,0,0,0
+Lincoln Square,2016,0,0,0
+Lincoln Square,2017,1,155.1282607433015,0
+Lincoln Square,2018,1,155.1282607433015,0
+Lincoln Square,2019,0,0,0
+Lincoln Square,2020,0,0,0
+Lincoln Square,2021,1,155.1282607433015,0
+Little Village,2006,4,4.8400688831833305,0
+Little Village,2007,4,4.8400688831833305,0
+Little Village,2008,13,15.730223870345824,0
+Little Village,2009,10,12.100172207958327,0
+Little Village,2010,8,9.680137766366661,0
+Little Village,2011,12,14.520206649549992,0
+Little Village,2012,10,12.100172207958327,0
+Little Village,2013,6,7.260103324774996,0
+Little Village,2014,8,9.680137766366661,0
+Little Village,2015,11,13.31018942875416,0
+Little Village,2016,9,10.890154987162495,0
+Little Village,2017,2,2.4200344415916653,0
+Little Village,2018,8,9.680137766366661,0
+Little Village,2019,9,10.890154987162495,0
+Little Village,2020,6,7.260103324774996,0
+Little Village,2021,6,7.260103324774996,0
+Logan Square,2006,1,6.141319479615353,0
+Logan Square,2007,3,18.42395843884606,0
+Logan Square,2008,2,12.282638959230706,0
+Logan Square,2009,0,0,0
+Logan Square,2010,1,6.141319479615353,0
+Logan Square,2011,1,6.141319479615353,0
+Logan Square,2012,2,12.282638959230706,0
+Logan Square,2013,1,6.141319479615353,0
+Logan Square,2014,2,12.282638959230706,0
+Logan Square,2015,5,30.706597398076767,0
+Logan Square,2016,6,36.84791687769212,0
+Logan Square,2017,3,18.42395843884606,0
+Logan Square,2018,2,12.282638959230706,0
+Logan Square,2019,1,6.141319479615353,0
+Logan Square,2020,4,24.565277918461412,0
+Logan Square,2021,3,18.42395843884606,0
+Magnolia Glen,2006,3,48.02118923733711,0
+Magnolia Glen,2007,0,0,0
+Magnolia Glen,2008,0,0,0
+Magnolia Glen,2009,0,0,0
+Magnolia Glen,2010,0,0,0
+Magnolia Glen,2011,0,0,0
+Magnolia Glen,2012,0,0,0
+Magnolia Glen,2013,0,0,0
+Magnolia Glen,2014,0,0,0
+Magnolia Glen,2015,1,16.00706307911237,0
+Magnolia Glen,2016,1,16.00706307911237,0
+Magnolia Glen,2017,0,0,0
+Magnolia Glen,2018,0,0,0
+Magnolia Glen,2019,0,0,0
+Magnolia Glen,2020,0,0,0
+Magnolia Glen,2021,0,0,0
+Margate Park,2006,0,0,0
+Margate Park,2007,0,0,0
+Margate Park,2008,0,0,0
+Margate Park,2009,1,13.298673281919973,0
+Margate Park,2010,0,0,0
+Margate Park,2011,0,0,0
+Margate Park,2012,0,0,0
+Margate Park,2013,0,0,0
+Margate Park,2014,0,0,0
+Margate Park,2015,0,0,0
+Margate Park,2016,0,0,0
+Margate Park,2017,0,0,0
+Margate Park,2018,0,0,0
+Margate Park,2019,0,0,0
+Margate Park,2020,0,0,0
+Margate Park,2021,0,0,0
+Marquette Park,2006,0,0,0
+Marquette Park,2007,0,0,0
+Marquette Park,2008,0,0,0
+Marquette Park,2009,0,0,0
+Marquette Park,2010,0,0,0
+Marquette Park,2011,0,0,0
+Marquette Park,2012,0,0,0
+Marquette Park,2013,0,0,0
+Marquette Park,2014,0,0,0
+Marquette Park,2015,0,0,0
+Marquette Park,2016,1,26.3802537736982,0
+Marquette Park,2017,0,0,0
+Marquette Park,2018,1,26.3802537736982,0
+Marquette Park,2019,0,0,0
+Marquette Park,2020,0,0,0
+Marquette Park,2021,0,0,0
+Mayfair,2006,0,0,0
+Mayfair,2007,0,0,0
+Mayfair,2008,0,0,0
+Mayfair,2009,0,0,0
+Mayfair,2010,0,0,0
+Mayfair,2011,1,84.98810286129029,0
+Mayfair,2012,0,0,0
+Mayfair,2013,0,0,0
+Mayfair,2014,0,0,0
+Mayfair,2015,0,0,0
+Mayfair,2016,0,0,0
+Mayfair,2017,1,84.98810286129029,0
+Mayfair,2018,0,0,0
+Mayfair,2019,0,0,0
+Mayfair,2020,0,0,0
+Mayfair,2021,1,84.98810286129029,0
+McKinley Park,2006,3,28.49225428624639,0
+McKinley Park,2007,2,18.994836190830927,0
+McKinley Park,2008,0,0,0
+McKinley Park,2009,0,0,0
+McKinley Park,2010,1,9.497418095415464,0
+McKinley Park,2011,1,9.497418095415464,0
+McKinley Park,2012,0,0,0
+McKinley Park,2013,1,9.497418095415464,0
+McKinley Park,2014,2,18.994836190830927,0
+McKinley Park,2015,0,0,0
+McKinley Park,2016,0,0,0
+McKinley Park,2017,3,28.49225428624639,0
+McKinley Park,2018,0,0,0
+McKinley Park,2019,0,0,0
+McKinley Park,2020,0,0,0
+McKinley Park,2021,0,0,0
+Montclare,2006,3,81.59931247888366,0
+Montclare,2007,0,0,0
+Montclare,2008,1,27.199770826294554,0
+Montclare,2009,1,27.199770826294554,0
+Montclare,2010,0,0,0
+Montclare,2011,0,0,0
+Montclare,2012,0,0,0
+Montclare,2013,0,0,0
+Montclare,2014,0,0,0
+Montclare,2015,1,27.199770826294554,0
+Montclare,2016,2,54.39954165258911,0
+Montclare,2017,0,0,0
+Montclare,2018,1,27.199770826294554,0
+Montclare,2019,0,0,0
+Montclare,2020,0,0,0
+Montclare,2021,0,0,0
+Morgan Park,2006,0,0,0
+Morgan Park,2007,0,0,0
+Morgan Park,2008,0,0,0
+Morgan Park,2009,0,0,0
+Morgan Park,2010,0,0,0
+Morgan Park,2011,0,0,0
+Morgan Park,2012,0,0,0
+Morgan Park,2013,0,0,0
+Morgan Park,2014,0,0,0
+Morgan Park,2015,0,0,0
+Morgan Park,2016,0,0,0
+Morgan Park,2017,0,0,0
+Morgan Park,2018,0,0,0
+Morgan Park,2019,0,0,0
+Morgan Park,2020,0,0,0
+Morgan Park,2021,2,21.792240243606628,0
+Mount Greenwood,2006,0,0,0
+Mount Greenwood,2007,0,0,0
+Mount Greenwood,2008,0,0,0
+Mount Greenwood,2009,0,0,0
+Mount Greenwood,2010,0,0,0
+Mount Greenwood,2011,0,0,0
+Mount Greenwood,2012,0,0,0
+Mount Greenwood,2013,0,0,0
+Mount Greenwood,2014,0,0,0
+Mount Greenwood,2015,0,0,0
+Mount Greenwood,2016,0,0,0
+Mount Greenwood,2017,0,0,0
+Mount Greenwood,2018,0,0,0
+Mount Greenwood,2019,0,0,0
+Mount Greenwood,2020,0,0,0
+Mount Greenwood,2021,1,37.71933601831327,0
+Near North,2006,0,0,0
+Near North,2007,0,0,0
+Near North,2008,1,31.332595986837198,0
+Near North,2009,0,0,0
+Near North,2010,3,93.99778796051159,0
+Near North,2011,0,0,0
+Near North,2012,0,0,0
+Near North,2013,0,0,0
+Near North,2014,0,0,0
+Near North,2015,0,0,0
+Near North,2016,0,0,0
+Near North,2017,0,0,0
+Near North,2018,0,0,0
+Near North,2019,0,0,0
+Near North,2020,0,0,0
+Near North,2021,0,0,0
+Near West Side,2006,5,13.707388536598582,0
+Near West Side,2007,8,21.93182165855773,0
+Near West Side,2008,5,13.707388536598582,0
+Near West Side,2009,4,10.965910829278865,0
+Near West Side,2010,5,13.707388536598582,0
+Near West Side,2011,7,19.190343951238013,0
+Near West Side,2012,1,2.7414777073197163,0
+Near West Side,2013,3,8.22443312195915,0
+Near West Side,2014,4,10.965910829278865,0
+Near West Side,2015,2,5.482955414639433,0
+Near West Side,2016,3,8.22443312195915,0
+Near West Side,2017,4,10.965910829278865,0
+Near West Side,2018,3,8.22443312195915,0
+Near West Side,2019,3,8.22443312195915,0
+Near West Side,2020,3,8.22443312195915,0
+Near West Side,2021,1,2.7414777073197163,0
+Noble Square,2006,11,89.26468853634907,0
+Noble Square,2007,7,56.8048017958585,0
+Noble Square,2008,11,89.26468853634907,0
+Noble Square,2009,1,8.114971685122644,0
+Noble Square,2010,2,16.229943370245287,0
+Noble Square,2011,1,8.114971685122644,0
+Noble Square,2012,3,24.34491505536793,0
+Noble Square,2013,5,40.574858425613215,0
+Noble Square,2014,5,40.574858425613215,0
+Noble Square,2015,2,16.229943370245287,0
+Noble Square,2016,8,64.91977348098115,0
+Noble Square,2017,5,40.574858425613215,0
+Noble Square,2018,6,48.68983011073586,0
+Noble Square,2019,2,16.229943370245287,0
+Noble Square,2020,3,24.34491505536793,0
+Noble Square,2021,5,40.574858425613215,0
+North Austin,2006,0,0,0
+North Austin,2007,0,0,0
+North Austin,2008,0,0,0
+North Austin,2009,0,0,0
+North Austin,2010,1,182.6676251748063,0
+North Austin,2011,0,0,0
+North Austin,2012,0,0,0
+North Austin,2013,0,0,0
+North Austin,2014,0,0,0
+North Austin,2015,0,0,0
+North Austin,2016,0,0,0
+North Austin,2017,0,0,0
+North Austin,2018,0,0,0
+North Austin,2019,0,0,0
+North Austin,2020,0,0,0
+North Austin,2021,0,0,0
+North Center,2006,2,80.13352458668363,0
+North Center,2007,1,40.06676229334182,0
+North Center,2008,0,0,0
+North Center,2009,1,40.06676229334182,0
+North Center,2010,0,0,0
+North Center,2011,0,0,0
+North Center,2012,0,0,0
+North Center,2013,0,0,0
+North Center,2014,1,40.06676229334182,0
+North Center,2015,1,40.06676229334182,0
+North Center,2016,0,0,0
+North Center,2017,6,240.4005737600509,0
+North Center,2018,0,0,0
+North Center,2019,0,0,0
+North Center,2020,0,0,0
+North Center,2021,1,40.06676229334182,0
+North Kenwood,2006,2,10.232470303633674,0
+North Kenwood,2007,2,10.232470303633674,0
+North Kenwood,2008,0,0,0
+North Kenwood,2009,2,10.232470303633674,0
+North Kenwood,2010,0,0,0
+North Kenwood,2011,0,0,0
+North Kenwood,2012,1,5.116235151816837,0
+North Kenwood,2013,0,0,0
+North Kenwood,2014,1,5.116235151816837,0
+North Kenwood,2015,0,0,0
+North Kenwood,2016,1,5.116235151816837,0
+North Kenwood,2017,0,0,0
+North Kenwood,2018,0,0,0
+North Kenwood,2019,1,5.116235151816837,0
+North Kenwood,2020,0,0,0
+North Kenwood,2021,0,0,0
+North Park,2006,1,31.65324331983625,0
+North Park,2007,1,31.65324331983625,0
+North Park,2008,0,0,0
+North Park,2009,0,0,0
+North Park,2010,0,0,0
+North Park,2011,0,0,0
+North Park,2012,0,0,0
+North Park,2013,0,0,0
+North Park,2014,0,0,0
+North Park,2015,0,0,0
+North Park,2016,0,0,0
+North Park,2017,0,0,0
+North Park,2018,0,0,0
+North Park,2019,0,0,0
+North Park,2020,0,0,0
+North Park,2021,0,0,0
+O'Hare,2006,0,0,0
+O'Hare,2007,0,0,0
+O'Hare,2008,1,5.213327434415328,0
+O'Hare,2009,0,0,0
+O'Hare,2010,0,0,0
+O'Hare,2011,0,0,0
+O'Hare,2012,0,0,0
+O'Hare,2013,1,5.213327434415328,0
+O'Hare,2014,0,0,0
+O'Hare,2015,0,0,0
+O'Hare,2016,0,0,0
+O'Hare,2017,0,0,0
+O'Hare,2018,0,0,0
+O'Hare,2019,0,0,0
+O'Hare,2020,0,0,0
+O'Hare,2021,0,0,0
+Oakland,2006,1,6.8219856163385195,0
+Oakland,2007,2,13.643971232677039,0
+Oakland,2008,7,47.75389931436963,0
+Oakland,2009,2,13.643971232677039,0
+Oakland,2010,0,0,0
+Oakland,2011,2,13.643971232677039,0
+Oakland,2012,2,13.643971232677039,0
+Oakland,2013,0,0,0
+Oakland,2014,3,20.46595684901556,0
+Oakland,2015,1,6.8219856163385195,0
+Oakland,2016,0,0,0
+Oakland,2017,0,0,0
+Oakland,2018,0,0,0
+Oakland,2019,2,13.643971232677039,0
+Oakland,2020,1,6.8219856163385195,0
+Oakland,2021,0,0,0
+Old Irving Park,2006,0,0,0
+Old Irving Park,2007,0,0,0
+Old Irving Park,2008,0,0,0
+Old Irving Park,2009,0,0,0
+Old Irving Park,2010,0,0,0
+Old Irving Park,2011,0,0,0
+Old Irving Park,2012,0,0,0
+Old Irving Park,2013,0,0,0
+Old Irving Park,2014,0,0,0
+Old Irving Park,2015,0,0,0
+Old Irving Park,2016,0,0,0
+Old Irving Park,2017,0,0,0
+Old Irving Park,2018,0,0,0
+Old Irving Park,2019,0,0,0
+Old Irving Park,2020,3,43.19962508365733,0
+Old Irving Park,2021,1,14.399875027885777,0
+Old Town,2006,3,26.27143793679424,0
+Old Town,2007,3,26.27143793679424,0
+Old Town,2008,2,17.514291957862824,0
+Old Town,2009,1,8.757145978931412,0
+Old Town,2010,2,17.514291957862824,0
+Old Town,2011,0,0,0
+Old Town,2012,2,17.514291957862824,0
+Old Town,2013,1,8.757145978931412,0
+Old Town,2014,1,8.757145978931412,0
+Old Town,2015,3,26.27143793679424,0
+Old Town,2016,9,78.81431381038271,0
+Old Town,2017,3,26.27143793679424,0
+Old Town,2018,5,43.78572989465706,0
+Old Town,2019,3,26.27143793679424,0
+Old Town,2020,5,43.78572989465706,0
+Old Town,2021,3,26.27143793679424,0
+Old Town Triangle,2006,6,46.82497927906261,0
+Old Town Triangle,2007,2,15.608326426354205,0
+Old Town Triangle,2008,0,0,0
+Old Town Triangle,2009,3,23.412489639531305,0
+Old Town Triangle,2010,2,15.608326426354205,0
+Old Town Triangle,2011,0,0,0
+Old Town Triangle,2012,1,7.804163213177103,0
+Old Town Triangle,2013,3,23.412489639531305,0
+Old Town Triangle,2014,2,15.608326426354205,0
+Old Town Triangle,2015,5,39.02081606588551,0
+Old Town Triangle,2016,4,31.21665285270841,0
+Old Town Triangle,2017,7,54.629142492239716,0
+Old Town Triangle,2018,0,0,0
+Old Town Triangle,2019,4,31.21665285270841,0
+Old Town Triangle,2020,1,7.804163213177103,0
+Old Town Triangle,2021,2,15.608326426354205,0
+Palmer Square,2006,8,60.193059341816905,0
+Palmer Square,2007,0,0,0
+Palmer Square,2008,1,7.524132417727113,0
+Palmer Square,2009,0,0,0
+Palmer Square,2010,1,7.524132417727113,0
+Palmer Square,2011,0,0,0
+Palmer Square,2012,4,30.096529670908453,0
+Palmer Square,2013,1,7.524132417727113,0
+Palmer Square,2014,5,37.62066208863557,0
+Palmer Square,2015,6,45.14479450636268,0
+Palmer Square,2016,4,30.096529670908453,0
+Palmer Square,2017,11,82.76545659499826,0
+Palmer Square,2018,7,52.668926924089796,0
+Palmer Square,2019,1,7.524132417727113,0
+Palmer Square,2020,3,22.57239725318134,0
+Palmer Square,2021,2,15.048264835454226,0
+Park West,2006,8,62.076094753000426,0
+Park West,2007,7,54.316582908875375,0
+Park West,2008,1,7.759511844125053,0
+Park West,2009,4,31.038047376500213,0
+Park West,2010,1,7.759511844125053,0
+Park West,2011,1,7.759511844125053,0
+Park West,2012,2,15.519023688250106,0
+Park West,2013,6,46.55707106475032,0
+Park West,2014,4,31.038047376500213,0
+Park West,2015,4,31.038047376500213,0
+Park West,2016,3,23.27853553237516,0
+Park West,2017,2,15.519023688250106,0
+Park West,2018,1,7.759511844125053,0
+Park West,2019,4,31.038047376500213,0
+Park West,2020,1,7.759511844125053,0
+Park West,2021,2,15.519023688250106,0
+Parkview,2006,0,0,0
+Parkview,2007,0,0,0
+Parkview,2008,0,0,0
+Parkview,2009,0,0,0
+Parkview,2010,0,0,0
+Parkview,2011,0,0,0
+Parkview,2012,0,0,0
+Parkview,2013,0,0,0
+Parkview,2014,0,0,0
+Parkview,2015,0,0,0
+Parkview,2016,0,0,0
+Parkview,2017,0,0,0
+Parkview,2018,0,0,0
+Parkview,2019,1,123.72524213886103,0
+Parkview,2020,0,0,0
+Parkview,2021,0,0,0
+Peterson Park,2006,0,0,0
+Peterson Park,2007,1,351.36448859509466,0
+Peterson Park,2008,0,0,0
+Peterson Park,2009,0,0,0
+Peterson Park,2010,0,0,0
+Peterson Park,2011,0,0,0
+Peterson Park,2012,0,0,0
+Peterson Park,2013,0,0,0
+Peterson Park,2014,0,0,0
+Peterson Park,2015,0,0,0
+Peterson Park,2016,0,0,0
+Peterson Park,2017,0,0,0
+Peterson Park,2018,0,0,0
+Peterson Park,2019,0,0,0
+Peterson Park,2020,0,0,0
+Peterson Park,2021,0,0,0
+pilsen,2006,9,20.749919367324473,1
+pilsen,2007,4,9.222186385477544,1
+pilsen,2008,4,9.222186385477544,1
+pilsen,2009,6,13.833279578216315,1
+pilsen,2010,6,13.833279578216315,1
+pilsen,2011,6,13.833279578216315,1
+pilsen,2012,4,9.222186385477544,1
+pilsen,2013,2,4.611093192738772,1
+pilsen,2014,5,11.52773298184693,1
+pilsen,2015,4,9.222186385477544,1
+pilsen,2016,8,18.444372770955088,1
+pilsen,2017,11,25.361012560063244,1
+pilsen,2018,6,13.833279578216315,1
+pilsen,2019,10,23.05546596369386,1
+pilsen,2020,8,18.444372770955088,1
+pilsen,2021,2,4.611093192738772,1
+Portage Park,2006,0,0,0
+Portage Park,2007,1,22.68368199281186,0
+Portage Park,2008,0,0,0
+Portage Park,2009,1,22.68368199281186,0
+Portage Park,2010,0,0,0
+Portage Park,2011,1,22.68368199281186,0
+Portage Park,2012,0,0,0
+Portage Park,2013,0,0,0
+Portage Park,2014,0,0,0
+Portage Park,2015,0,0,0
+Portage Park,2016,3,68.05104597843558,0
+Portage Park,2017,0,0,0
+Portage Park,2018,0,0,0
+Portage Park,2019,2,45.36736398562372,0
+Portage Park,2020,0,0,0
+Portage Park,2021,0,0,0
+Ranch Triangle,2006,8,84.17944663667485,0
+Ranch Triangle,2007,12,126.26916995501227,0
+Ranch Triangle,2008,3,31.56729248875307,0
+Ranch Triangle,2009,2,21.044861659168713,0
+Ranch Triangle,2010,3,31.56729248875307,0
+Ranch Triangle,2011,4,42.08972331833743,0
+Ranch Triangle,2012,5,52.612154147921785,0
+Ranch Triangle,2013,7,73.6570158070905,0
+Ranch Triangle,2014,4,42.08972331833743,0
+Ranch Triangle,2015,2,21.044861659168713,0
+Ranch Triangle,2016,4,42.08972331833743,0
+Ranch Triangle,2017,4,42.08972331833743,0
+Ranch Triangle,2018,7,73.6570158070905,0
+Ranch Triangle,2019,7,73.6570158070905,0
+Ranch Triangle,2020,3,31.56729248875307,0
+Ranch Triangle,2021,3,31.56729248875307,0
+Ravenswood,2006,4,62.45045871265683,0
+Ravenswood,2007,4,62.45045871265683,0
+Ravenswood,2008,1,15.612614678164208,0
+Ravenswood,2009,1,15.612614678164208,0
+Ravenswood,2010,1,15.612614678164208,0
+Ravenswood,2011,0,0,0
+Ravenswood,2012,1,15.612614678164208,0
+Ravenswood,2013,1,15.612614678164208,0
+Ravenswood,2014,1,15.612614678164208,0
+Ravenswood,2015,2,31.225229356328416,0
+Ravenswood,2016,0,0,0
+Ravenswood,2017,3,46.837844034492626,0
+Ravenswood,2018,0,0,0
+Ravenswood,2019,3,46.837844034492626,0
+Ravenswood,2020,0,0,0
+Ravenswood,2021,3,46.837844034492626,0
+Rogers Park,2006,13,17.760708508272355,0
+Rogers Park,2007,4,5.464833387160724,0
+Rogers Park,2008,2,2.732416693580362,0
+Rogers Park,2009,2,2.732416693580362,0
+Rogers Park,2010,1,1.366208346790181,0
+Rogers Park,2011,4,5.464833387160724,0
+Rogers Park,2012,0,0,0
+Rogers Park,2013,1,1.366208346790181,0
+Rogers Park,2014,0,0,0
+Rogers Park,2015,0,0,0
+Rogers Park,2016,1,1.366208346790181,0
+Rogers Park,2017,1,1.366208346790181,0
+Rogers Park,2018,2,2.732416693580362,0
+Rogers Park,2019,2,2.732416693580362,0
+Rogers Park,2020,0,0,0
+Rogers Park,2021,1,1.366208346790181,0
+Roscoe Village,2006,4,159.88818494709557,0
+Roscoe Village,2007,1,39.97204623677389,0
+Roscoe Village,2008,3,119.91613871032168,0
+Roscoe Village,2009,0,0,0
+Roscoe Village,2010,0,0,0
+Roscoe Village,2011,0,0,0
+Roscoe Village,2012,0,0,0
+Roscoe Village,2013,0,0,0
+Roscoe Village,2014,3,119.91613871032168,0
+Roscoe Village,2015,2,79.94409247354778,0
+Roscoe Village,2016,1,39.97204623677389,0
+Roscoe Village,2017,2,79.94409247354778,0
+Roscoe Village,2018,2,79.94409247354778,0
+Roscoe Village,2019,1,39.97204623677389,0
+Roscoe Village,2020,0,0,0
+Roscoe Village,2021,2,79.94409247354778,0
+Roseland,2006,0,0,0
+Roseland,2007,1,4.106323106822576,0
+Roseland,2008,1,4.106323106822576,0
+Roseland,2009,3,12.318969320467728,0
+Roseland,2010,1,4.106323106822576,0
+Roseland,2011,1,4.106323106822576,0
+Roseland,2012,2,8.212646213645153,0
+Roseland,2013,1,4.106323106822576,0
+Roseland,2014,2,8.212646213645153,0
+Roseland,2015,0,0,0
+Roseland,2016,1,4.106323106822576,0
+Roseland,2017,1,4.106323106822576,0
+Roseland,2018,1,4.106323106822576,0
+Roseland,2019,2,8.212646213645153,0
+Roseland,2020,1,4.106323106822576,0
+Roseland,2021,2,8.212646213645153,0
+Schorsch Village,2006,0,0,0
+Schorsch Village,2007,2,124.14926777177975,0
+Schorsch Village,2008,0,0,0
+Schorsch Village,2009,0,0,0
+Schorsch Village,2010,0,0,0
+Schorsch Village,2011,0,0,0
+Schorsch Village,2012,0,0,0
+Schorsch Village,2013,0,0,0
+Schorsch Village,2014,0,0,0
+Schorsch Village,2015,0,0,0
+Schorsch Village,2016,0,0,0
+Schorsch Village,2017,0,0,0
+Schorsch Village,2018,0,0,0
+Schorsch Village,2019,0,0,0
+Schorsch Village,2020,0,0,0
+Schorsch Village,2021,0,0,0
+Sheffield Neighbors,2006,10,46.4737114611624,0
+Sheffield Neighbors,2007,10,46.4737114611624,0
+Sheffield Neighbors,2008,7,32.53159802281368,0
+Sheffield Neighbors,2009,4,18.589484584464962,0
+Sheffield Neighbors,2010,6,27.884226876697443,0
+Sheffield Neighbors,2011,8,37.178969168929925,0
+Sheffield Neighbors,2012,6,27.884226876697443,0
+Sheffield Neighbors,2013,10,46.4737114611624,0
+Sheffield Neighbors,2014,15,69.7105671917436,0
+Sheffield Neighbors,2015,15,69.7105671917436,0
+Sheffield Neighbors,2016,16,74.35793833785985,0
+Sheffield Neighbors,2017,11,51.121082607278645,0
+Sheffield Neighbors,2018,8,37.178969168929925,0
+Sheffield Neighbors,2019,3,13.942113438348722,0
+Sheffield Neighbors,2020,7,32.53159802281368,0
+Sheffield Neighbors,2021,11,51.121082607278645,0
+Sheridan Park,2006,2,17.75857340389442,0
+Sheridan Park,2007,0,0,0
+Sheridan Park,2008,1,8.87928670194721,0
+Sheridan Park,2009,0,0,0
+Sheridan Park,2010,0,0,0
+Sheridan Park,2011,0,0,0
+Sheridan Park,2012,0,0,0
+Sheridan Park,2013,0,0,0
+Sheridan Park,2014,0,0,0
+Sheridan Park,2015,0,0,0
+Sheridan Park,2016,0,0,0
+Sheridan Park,2017,0,0,0
+Sheridan Park,2018,0,0,0
+Sheridan Park,2019,0,0,0
+Sheridan Park,2020,0,0,0
+Sheridan Park,2021,0,0,0
+South Austin,2006,1,1.5826498302781689,0
+South Austin,2007,3,4.747949490834507,0
+South Austin,2008,3,4.747949490834507,0
+South Austin,2009,3,4.747949490834507,0
+South Austin,2010,2,3.1652996605563377,0
+South Austin,2011,3,4.747949490834507,0
+South Austin,2012,9,14.24384847250352,0
+South Austin,2013,5,7.913249151390844,0
+South Austin,2014,1,1.5826498302781689,0
+South Austin,2015,5,7.913249151390844,0
+South Austin,2016,0,0,0
+South Austin,2017,7,11.078548811947183,0
+South Austin,2018,6,9.495898981669013,0
+South Austin,2019,1,1.5826498302781689,0
+South Austin,2020,3,4.747949490834507,0
+South Austin,2021,2,3.1652996605563377,0
+South Chicago,2006,2,5.362242759917438,0
+South Chicago,2007,0,0,0
+South Chicago,2008,2,5.362242759917438,0
+South Chicago,2009,1,2.681121379958719,0
+South Chicago,2010,1,2.681121379958719,0
+South Chicago,2011,0,0,0
+South Chicago,2012,4,10.724485519834875,0
+South Chicago,2013,3,8.043364139876156,0
+South Chicago,2014,2,5.362242759917438,0
+South Chicago,2015,5,13.405606899793593,0
+South Chicago,2016,2,5.362242759917438,0
+South Chicago,2017,7,18.767849659711032,0
+South Chicago,2018,3,8.043364139876156,0
+South Chicago,2019,2,5.362242759917438,0
+South Chicago,2020,4,10.724485519834875,0
+South Chicago,2021,4,10.724485519834875,0
+South East Ravenswood,2006,1,38.48562904936981,0
+South East Ravenswood,2007,0,0,0
+South East Ravenswood,2008,0,0,0
+South East Ravenswood,2009,0,0,0
+South East Ravenswood,2010,0,0,0
+South East Ravenswood,2011,0,0,0
+South East Ravenswood,2012,0,0,0
+South East Ravenswood,2013,0,0,0
+South East Ravenswood,2014,0,0,0
+South East Ravenswood,2015,0,0,0
+South East Ravenswood,2016,1,38.48562904936981,0
+South East Ravenswood,2017,0,0,0
+South East Ravenswood,2018,1,38.48562904936981,0
+South East Ravenswood,2019,0,0,0
+South East Ravenswood,2020,0,0,0
+South East Ravenswood,2021,0,0,0
+South Shore,2006,2,1.7722030842301797,0
+South Shore,2007,7,6.202710794805629,0
+South Shore,2008,2,1.7722030842301797,0
+South Shore,2009,6,5.316609252690539,0
+South Shore,2010,8,7.088812336920719,0
+South Shore,2011,6,5.316609252690539,0
+South Shore,2012,6,5.316609252690539,0
+South Shore,2013,5,4.43050771057545,0
+South Shore,2014,6,5.316609252690539,0
+South Shore,2015,1,0.8861015421150898,0
+South Shore,2016,5,4.43050771057545,0
+South Shore,2017,5,4.43050771057545,0
+South Shore,2018,5,4.43050771057545,0
+South Shore,2019,6,5.316609252690539,0
+South Shore,2020,6,5.316609252690539,0
+South Shore,2021,3,2.6583046263452697,0
+Tally's Corner,2006,0,0,0
+Tally's Corner,2007,0,0,0
+Tally's Corner,2008,0,0,0
+Tally's Corner,2009,0,0,0
+Tally's Corner,2010,0,0,0
+Tally's Corner,2011,0,0,0
+Tally's Corner,2012,0,0,0
+Tally's Corner,2013,0,0,0
+Tally's Corner,2014,0,0,0
+Tally's Corner,2015,0,0,0
+Tally's Corner,2016,0,0,0
+Tally's Corner,2017,0,0,0
+Tally's Corner,2018,0,0,0
+Tally's Corner,2019,1,5.550962771983457,0
+Tally's Corner,2020,0,0,0
+Tally's Corner,2021,0,0,0
+The Bush,2006,0,0,0
+The Bush,2007,1,14.302503868412318,0
+The Bush,2008,1,14.302503868412318,0
+The Bush,2009,1,14.302503868412318,0
+The Bush,2010,0,0,0
+The Bush,2011,4,57.21001547364927,0
+The Bush,2012,8,114.42003094729854,0
+The Bush,2013,0,0,0
+The Bush,2014,3,42.907511605236955,0
+The Bush,2015,0,0,0
+The Bush,2016,1,14.302503868412318,0
+The Bush,2017,3,42.907511605236955,0
+The Bush,2018,1,14.302503868412318,0
+The Bush,2019,2,28.605007736824636,0
+The Bush,2020,1,14.302503868412318,0
+The Bush,2021,0,0,0
+The Gap,2006,0,0,0
+The Gap,2007,0,0,0
+The Gap,2008,0,0,0
+The Gap,2009,0,0,0
+The Gap,2010,0,0,0
+The Gap,2011,0,0,0
+The Gap,2012,2,58.96770879584752,0
+The Gap,2013,0,0,0
+The Gap,2014,0,0,0
+The Gap,2015,0,0,0
+The Gap,2016,0,0,0
+The Gap,2017,0,0,0
+The Gap,2018,0,0,0
+The Gap,2019,0,0,0
+The Gap,2020,0,0,0
+The Gap,2021,0,0,0
+The Robert Taylor Homes,2006,1,9.883952601231185,0
+The Robert Taylor Homes,2007,0,0,0
+The Robert Taylor Homes,2008,0,0,0
+The Robert Taylor Homes,2009,0,0,0
+The Robert Taylor Homes,2010,0,0,0
+The Robert Taylor Homes,2011,0,0,0
+The Robert Taylor Homes,2012,0,0,0
+The Robert Taylor Homes,2013,0,0,0
+The Robert Taylor Homes,2014,0,0,0
+The Robert Taylor Homes,2015,0,0,0
+The Robert Taylor Homes,2016,0,0,0
+The Robert Taylor Homes,2017,0,0,0
+The Robert Taylor Homes,2018,1,9.883952601231185,0
+The Robert Taylor Homes,2019,0,0,0
+The Robert Taylor Homes,2020,0,0,0
+The Robert Taylor Homes,2021,0,0,0
+Ukrainian Village,2006,4,23.765528258733998,0
+Ukrainian Village,2007,2,11.882764129366999,0
+Ukrainian Village,2008,5,29.706910323417496,0
+Ukrainian Village,2009,0,0,0
+Ukrainian Village,2010,1,5.941382064683499,0
+Ukrainian Village,2011,5,29.706910323417496,0
+Ukrainian Village,2012,2,11.882764129366999,0
+Ukrainian Village,2013,5,29.706910323417496,0
+Ukrainian Village,2014,4,23.765528258733998,0
+Ukrainian Village,2015,7,41.58967445278449,0
+Ukrainian Village,2016,8,47.531056517467995,0
+Ukrainian Village,2017,3,17.824146194050495,0
+Ukrainian Village,2018,3,17.824146194050495,0
+Ukrainian Village,2019,5,29.706910323417496,0
+Ukrainian Village,2020,3,17.824146194050495,0
+Ukrainian Village,2021,1,5.941382064683499,0
+University Village / Little Italy,2006,2,8.457457043323814,0
+University Village / Little Italy,2007,2,8.457457043323814,0
+University Village / Little Italy,2008,7,29.601099651633348,0
+University Village / Little Italy,2009,1,4.228728521661907,0
+University Village / Little Italy,2010,1,4.228728521661907,0
+University Village / Little Italy,2011,1,4.228728521661907,0
+University Village / Little Italy,2012,0,0,0
+University Village / Little Italy,2013,0,0,0
+University Village / Little Italy,2014,2,8.457457043323814,0
+University Village / Little Italy,2015,6,25.37237112997144,0
+University Village / Little Italy,2016,3,12.68618556498572,0
+University Village / Little Italy,2017,1,4.228728521661907,0
+University Village / Little Italy,2018,1,4.228728521661907,0
+University Village / Little Italy,2019,6,25.37237112997144,0
+University Village / Little Italy,2020,2,8.457457043323814,0
+University Village / Little Italy,2021,8,33.829828173295255,0
+Uptown,2006,5,15.110524476710008,0
+Uptown,2007,3,9.066314686026004,0
+Uptown,2008,2,6.044209790684003,0
+Uptown,2009,3,9.066314686026004,0
+Uptown,2010,2,6.044209790684003,0
+Uptown,2011,1,3.0221048953420016,0
+Uptown,2012,2,6.044209790684003,0
+Uptown,2013,2,6.044209790684003,0
+Uptown,2014,1,3.0221048953420016,0
+Uptown,2015,1,3.0221048953420016,0
+Uptown,2016,1,3.0221048953420016,0
+Uptown,2017,6,18.13262937205201,0
+Uptown,2018,3,9.066314686026004,0
+Uptown,2019,1,3.0221048953420016,0
+Uptown,2020,0,0,0
+Uptown,2021,3,9.066314686026004,0
+Washington Park,2006,3,5.396764435664337,0
+Washington Park,2007,3,5.396764435664337,0
+Washington Park,2008,3,5.396764435664337,0
+Washington Park,2009,3,5.396764435664337,0
+Washington Park,2010,3,5.396764435664337,0
+Washington Park,2011,7,12.592450349883451,0
+Washington Park,2012,7,12.592450349883451,0
+Washington Park,2013,1,1.798921478554779,0
+Washington Park,2014,5,8.994607392773894,0
+Washington Park,2015,2,3.597842957109558,0
+Washington Park,2016,1,1.798921478554779,0
+Washington Park,2017,3,5.396764435664337,0
+Washington Park,2018,3,5.396764435664337,0
+Washington Park,2019,5,8.994607392773894,0
+Washington Park,2020,3,5.396764435664337,0
+Washington Park,2021,3,5.396764435664337,0
+Wentworth Gardens,2006,6,155.8726124543088,0
+Wentworth Gardens,2007,0,0,0
+Wentworth Gardens,2008,1,25.9787687423848,0
+Wentworth Gardens,2009,0,0,0
+Wentworth Gardens,2010,0,0,0
+Wentworth Gardens,2011,0,0,0
+Wentworth Gardens,2012,0,0,0
+Wentworth Gardens,2013,0,0,0
+Wentworth Gardens,2014,0,0,0
+Wentworth Gardens,2015,0,0,0
+Wentworth Gardens,2016,0,0,0
+Wentworth Gardens,2017,0,0,0
+Wentworth Gardens,2018,0,0,0
+Wentworth Gardens,2019,0,0,0
+Wentworth Gardens,2020,0,0,0
+Wentworth Gardens,2021,0,0,0
+West De Paul,2006,5,95.2123262613385,0
+West De Paul,2007,2,38.0849305045354,0
+West De Paul,2008,4,76.1698610090708,0
+West De Paul,2009,3,57.127395756803104,0
+West De Paul,2010,0,0,0
+West De Paul,2011,1,19.0424652522677,0
+West De Paul,2012,2,38.0849305045354,0
+West De Paul,2013,0,0,0
+West De Paul,2014,2,38.0849305045354,0
+West De Paul,2015,4,76.1698610090708,0
+West De Paul,2016,5,95.2123262613385,0
+West De Paul,2017,1,19.0424652522677,0
+West De Paul,2018,2,38.0849305045354,0
+West De Paul,2019,5,95.2123262613385,0
+West De Paul,2020,0,0,0
+West De Paul,2021,1,19.0424652522677,0
+West Elsdon,2006,1,87.61805811082928,0
+West Elsdon,2007,0,0,0
+West Elsdon,2008,0,0,0
+West Elsdon,2009,0,0,0
+West Elsdon,2010,0,0,0
+West Elsdon,2011,0,0,0
+West Elsdon,2012,0,0,0
+West Elsdon,2013,0,0,0
+West Elsdon,2014,0,0,0
+West Elsdon,2015,0,0,0
+West Elsdon,2016,0,0,0
+West Elsdon,2017,0,0,0
+West Elsdon,2018,0,0,0
+West Elsdon,2019,0,0,0
+West Elsdon,2020,0,0,0
+West Elsdon,2021,0,0,0
+West Englewood,2006,0,0,0
+West Englewood,2007,0,0,0
+West Englewood,2008,0,0,0
+West Englewood,2009,1,12.468692258870266,0
+West Englewood,2010,1,12.468692258870266,0
+West Englewood,2011,0,0,0
+West Englewood,2012,1,12.468692258870266,0
+West Englewood,2013,0,0,0
+West Englewood,2014,0,0,0
+West Englewood,2015,0,0,0
+West Englewood,2016,1,12.468692258870266,0
+West Englewood,2017,1,12.468692258870266,0
+West Englewood,2018,1,12.468692258870266,0
+West Englewood,2019,1,12.468692258870266,0
+West Englewood,2020,0,0,0
+West Englewood,2021,1,12.468692258870266,0
+West Garfield Park,2006,2,4.000125623890091,0
+West Garfield Park,2007,5,10.000314059725229,0
+West Garfield Park,2008,6,12.000376871670275,0
+West Garfield Park,2009,8,16.000502495560365,0
+West Garfield Park,2010,14,28.00087936723064,0
+West Garfield Park,2011,11,22.000690931395503,0
+West Garfield Park,2012,11,22.000690931395503,0
+West Garfield Park,2013,10,20.000628119450457,0
+West Garfield Park,2014,8,16.000502495560365,0
+West Garfield Park,2015,13,26.000816555285596,0
+West Garfield Park,2016,17,34.00106780306578,0
+West Garfield Park,2017,10,20.000628119450457,0
+West Garfield Park,2018,17,34.00106780306578,0
+West Garfield Park,2019,12,24.00075374334055,0
+West Garfield Park,2020,3,6.000188435835137,0
+West Garfield Park,2021,8,16.000502495560365,0
+West Pullman,2006,0,0,0
+West Pullman,2007,0,0,0
+West Pullman,2008,0,0,0
+West Pullman,2009,0,0,0
+West Pullman,2010,0,0,0
+West Pullman,2011,0,0,0
+West Pullman,2012,0,0,0
+West Pullman,2013,0,0,0
+West Pullman,2014,1,13.575805138728047,0
+West Pullman,2015,0,0,0
+West Pullman,2016,0,0,0
+West Pullman,2017,1,13.575805138728047,0
+West Pullman,2018,0,0,0
+West Pullman,2019,0,0,0
+West Pullman,2020,0,0,0
+West Pullman,2021,0,0,0
+West Rogers Park,2006,18,22.73329565394259,0
+West Rogers Park,2007,7,8.840726087644342,0
+West Rogers Park,2008,6,7.577765217980864,0
+West Rogers Park,2009,3,3.788882608990432,0
+West Rogers Park,2010,3,3.788882608990432,0
+West Rogers Park,2011,6,7.577765217980864,0
+West Rogers Park,2012,0,0,0
+West Rogers Park,2013,4,5.051843478653909,0
+West Rogers Park,2014,2,2.5259217393269546,0
+West Rogers Park,2015,2,2.5259217393269546,0
+West Rogers Park,2016,1,1.2629608696634773,0
+West Rogers Park,2017,1,1.2629608696634773,0
+West Rogers Park,2018,0,0,0
+West Rogers Park,2019,0,0,0
+West Rogers Park,2020,0,0,0
+West Rogers Park,2021,0,0,0
+West Town,2006,7,46.95424021779238,0
+West Town,2007,7,46.95424021779238,0
+West Town,2008,4,26.830994410167076,0
+West Town,2009,4,26.830994410167076,0
+West Town,2010,3,20.123245807625306,0
+West Town,2011,1,6.707748602541769,0
+West Town,2012,5,33.53874301270884,0
+West Town,2013,8,53.66198882033415,0
+West Town,2014,5,33.53874301270884,0
+West Town,2015,6,40.24649161525061,0
+West Town,2016,11,73.78523462795945,0
+West Town,2017,8,53.66198882033415,0
+West Town,2018,6,40.24649161525061,0
+West Town,2019,8,53.66198882033415,0
+West Town,2020,1,6.707748602541769,0
+West Town,2021,7,46.95424021779238,0
+West Woodlawn,2006,2,5.92122044916505,0
+West Woodlawn,2007,4,11.8424408983301,0
+West Woodlawn,2008,3,8.881830673747574,0
+West Woodlawn,2009,2,5.92122044916505,0
+West Woodlawn,2010,2,5.92122044916505,0
+West Woodlawn,2011,4,11.8424408983301,0
+West Woodlawn,2012,3,8.881830673747574,0
+West Woodlawn,2013,6,17.763661347495148,0
+West Woodlawn,2014,5,14.803051122912624,0
+West Woodlawn,2015,6,17.763661347495148,0
+West Woodlawn,2016,6,17.763661347495148,0
+West Woodlawn,2017,10,29.606102245825248,0
+West Woodlawn,2018,7,20.724271572077672,0
+West Woodlawn,2019,5,14.803051122912624,0
+West Woodlawn,2020,2,5.92122044916505,0
+West Woodlawn,2021,3,8.881830673747574,0
+Wicker Park,2006,18,75.62691076099958,0
+Wicker Park,2007,20,84.02990084555509,0
+Wicker Park,2008,5,21.007475211388773,0
+Wicker Park,2009,3,12.604485126833262,0
+Wicker Park,2010,2,8.402990084555508,0
+Wicker Park,2011,5,21.007475211388773,0
+Wicker Park,2012,4,16.805980169111017,0
+Wicker Park,2013,3,12.604485126833262,0
+Wicker Park,2014,7,29.41046529594428,0
+Wicker Park,2015,5,21.007475211388773,0
+Wicker Park,2016,9,37.81345538049979,0
+Wicker Park,2017,8,33.61196033822203,0
+Wicker Park,2018,6,25.208970253666525,0
+Wicker Park,2019,7,29.41046529594428,0
+Wicker Park,2020,3,12.604485126833262,0
+Wicker Park,2021,4,16.805980169111017,0
+Winneconna Parkway,2006,1,24.387873082891854,0
+Winneconna Parkway,2007,0,0,0
+Winneconna Parkway,2008,0,0,0
+Winneconna Parkway,2009,0,0,0
+Winneconna Parkway,2010,0,0,0
+Winneconna Parkway,2011,0,0,0
+Winneconna Parkway,2012,0,0,0
+Winneconna Parkway,2013,1,24.387873082891854,0
+Winneconna Parkway,2014,0,0,0
+Winneconna Parkway,2015,0,0,0
+Winneconna Parkway,2016,0,0,0
+Winneconna Parkway,2017,2,48.77574616578371,0
+Winneconna Parkway,2018,0,0,0
+Winneconna Parkway,2019,0,0,0
+Winneconna Parkway,2020,0,0,0
+Winneconna Parkway,2021,0,0,0
+Woodlawn,2006,9,19.87129108754445,0
+Woodlawn,2007,6,13.247527391696298,0
+Woodlawn,2008,4,8.831684927797532,0
+Woodlawn,2009,1,2.207921231949383,0
+Woodlawn,2010,2,4.415842463898766,0
+Woodlawn,2011,2,4.415842463898766,0
+Woodlawn,2012,1,2.207921231949383,0
+Woodlawn,2013,3,6.623763695848149,0
+Woodlawn,2014,4,8.831684927797532,0
+Woodlawn,2015,4,8.831684927797532,0
+Woodlawn,2016,4,8.831684927797532,0
+Woodlawn,2017,2,4.415842463898766,0
+Woodlawn,2018,4,8.831684927797532,0
+Woodlawn,2019,4,8.831684927797532,0
+Woodlawn,2020,2,4.415842463898766,0
+Woodlawn,2021,0,0,0
+Wrightwood Neighbors,2006,19,88.56146643975936,0
+Wrightwood Neighbors,2007,25,116.52824531547283,0
+Wrightwood Neighbors,2008,11,51.27242793880804,0
+Wrightwood Neighbors,2009,2,9.322259625237827,0
+Wrightwood Neighbors,2010,3,13.98338943785674,0
+Wrightwood Neighbors,2011,4,18.644519250475653,0
+Wrightwood Neighbors,2012,1,4.661129812618913,0
+Wrightwood Neighbors,2013,15,69.9169471892837,0
+Wrightwood Neighbors,2014,7,32.62790868833239,0
+Wrightwood Neighbors,2015,19,88.56146643975936,0
+Wrightwood Neighbors,2016,6,27.96677887571348,0
+Wrightwood Neighbors,2017,19,88.56146643975936,0
+Wrightwood Neighbors,2018,7,32.62790868833239,0
+Wrightwood Neighbors,2019,12,55.93355775142696,0
+Wrightwood Neighbors,2020,10,46.61129812618913,0
+Wrightwood Neighbors,2021,10,46.61129812618913,0
+Wrigleyville,2006,7,88.96164609701515,0
+Wrigleyville,2007,6,76.25283951172726,0
+Wrigleyville,2008,4,50.83522634115151,0
+Wrigleyville,2009,0,0,0
+Wrigleyville,2010,2,25.417613170575756,0
+Wrigleyville,2011,0,0,0
+Wrigleyville,2012,2,25.417613170575756,0
+Wrigleyville,2013,1,12.708806585287878,0
+Wrigleyville,2014,4,50.83522634115151,0
+Wrigleyville,2015,1,12.708806585287878,0
+Wrigleyville,2016,3,38.12641975586363,0
+Wrigleyville,2017,0,0,0
+Wrigleyville,2018,2,25.417613170575756,0
+Wrigleyville,2019,4,50.83522634115151,0
+Wrigleyville,2020,3,38.12641975586363,0
+Wrigleyville,2021,1,12.708806585287878,0
